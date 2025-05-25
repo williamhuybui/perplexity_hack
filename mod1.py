@@ -32,7 +32,7 @@ retriever = vector_store.as_retriever(search_kwargs={"k": 3})
 
 #LLM
 llm = ChatPerplexity(
-    model="sonar-pro",
+    model="sonar",
     pplx_api_key = "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",
     temperature=0.2
 )

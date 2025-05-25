@@ -6,6 +6,7 @@ from langchain_community.chat_models import ChatPerplexity
 from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
 from langchain.retrievers import MultiQueryRetriever
+from langchain_community.llms import Ollama
 
 #Loader
 loader = PyMuPDFLoader("data\Huy_Bui_Resume.pdf")
@@ -32,34 +33,22 @@ vector_store.save_local("faiss_index_open")
 
 #More complex multi-query retriever and answer provider
 #Retriever
+qretriever_llm = Ollama(model="llama3:70b")
 retriever = MultiQueryRetriever.from_llm(
     retriever=vector_store.as_retriever(), 
-    llm=llm
+    llm=qretriever_llm
 )
 
-#First LLM
+
+
+#Perplexity's LLM
+perplexity_llm = ChatPerplexity(
+    model="sonar-pro",
+    pplx_api_key = "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",
+    temperature=0.2
+)
 qa_chain = RetrievalQA.from_chain_type(
-    llm,
+    perplexity_llm,
     retriever=retriever,
     chain_type="stuff"
 )
-draft_answer = qa_chain.run("What are the penalties for breach of contract?")
-
-#Second LLM (Validation Judge)
-validation_prompt = PromptTemplate.from_template(
-    """Validate if this answer is correct for legal contracts. Provide a confidence score (1-10):
-    Question: {question}
-    Draft Answer: {draft_answer}
-    Validation:"""
-)
-validation_chain = LLMChain(llm=llm, prompt=validation_prompt)
-validation_result = validation_chain.run(
-    question="What are the penalties for breach of contract?",
-    draft_answer=draft_answer
-)
-
-# Optional: Human Review
-if "confidence_score" in validation_result and int(validation_result["confidence_score"]) < 7:
-    print(f"Low confidence answer. Draft: {draft_answer}\nHuman review required.")
-else:
-    print(f"Validated Answer: {draft_answer}\nConfidence: {validation_result}")
