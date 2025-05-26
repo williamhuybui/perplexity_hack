@@ -52,3 +52,14 @@ qa_chain = RetrievalQA.from_chain_type(
     retriever=retriever,
     chain_type="stuff"
 )
+
+query = "How many times do the vowels 'ae' appear in 'I am a data analyst and engineer'?"
+query = "What are Huy Bui’s certifications from the resume?"
+query = "Dont make up the answer if you dont know. Question: What are Huy Bui's top skills?"
+response = qa_chain.invoke(query)
+
+print("Response", response['result'])
+print("############################")
+for i, doc in enumerate(response['source_documents']):
+    print(f"######DOC {i+1}######")
+    print(doc)
