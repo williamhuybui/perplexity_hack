@@ -1,0 +1,813 @@
+question,chunk,answer,evaluation_factual_correctness_score,evaluation_completeness_score,evaluation_clarity_score,evaluation_comments
+"What specific financial highlights or operational changes are mentioned in Oracle Corporation's 2024 fiscal year report, ending on May 31, 2024?","5/25/25, 1:44 PM
+10-K
+https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/orcl-20240531.htm
+81/194","The information provided does not directly relate to Oracle Corporation's 2024 fiscal year report. However, based on the available data about Oracle Corporation's fiscal 2024 results, here are some key financial highlights and operational changes:
+
+## Financial Highlights
+- **Total Revenues**: Oracle's fiscal full-year 2024 total revenues were up 6% in USD and constant currency to $53.0 billion[2].
+- **Quarterly Revenues**: In Q4, total quarterly revenues were up 3% year-over-year in USD and up 4% in constant currency to $14.3 billion[3][5].
+- **Cloud Services and License Support**: Revenues from cloud services and license support were up 9% in USD and up 10% in constant currency to $10.2 billion[3].
+- **Remaining Performance Obligation (RPO)**: RPO increased by 44% to $98 billion, driven by significant sales contracts[2][5].
+
+## Operational Changes
+- **Investment in AI and Cloud**: Oracle has been focusing on expanding its cloud services and integrating AI technologies, which contributed to revenue growth[5].
+- **Large Language Models**: There was a significant demand for training large language models on Oracle Cloud, driving some of the largest sales contracts in the company's history[2][5].
+- **Operational Costs**: The expansion of cloud services increased operational costs, impacting profitability[5].",5,4,5,"The model answer accurately reflects key financial highlights and operational changes for Oracle's fiscal year 2024, consistent with the document and referenced filings. It covers revenue growth, cloud services expansion, and operational costs, which are the main points mentioned. However, it slightly over-attributes specific details (like exact percentages) beyond the direct chunk but supported by referenced filings. Overall, the answer is clear and mostly complete but could include more explicit mention of legal and restructuring aspects noted in the filings."
+"Based on the provided chunk of Huy Bui’s professional profile, which details his experience with Publicis Groupe from June 2022 to the present and his recognition in 2024 for innovative analytics solutions, generate the following question:
+
+**What data science initiatives and client-agnostic applications did Huy Bui lead at Publicis Groupe between 2022 and the present, and how did these contribute to increased productivity and innovation at the company, especially noted by the awards received in 2024?**","Huy Bui
+williamhuybui@gmail.com | linkedin.com/in/huy-bui-ds
+Experience
+Publicis Groupe
+Remote
+Senior Data Scientist
+June 2022 – Present
+– Developed 7 client-agnostic applications using Python and Dash, empowering 100+ analysts to streamline data
+analysis and reporting, saving over 4,600 hours of productivity.
+– Led data science initiatives and cross-functional teams to build scalable analytics solutions, driving alignment and
+efficiency in a fast-paced, startup-like environment.
+– Built an automated data pipeline leveraging Python, SQL, BigQuery, AWS Lambda, S3, and EventBridge.
+– Developed regression models and LLM-based procedures to extract insights and optimize marketing spend
+allocation for global enterprises.
+– Enhanced UI/UX by migrating Python codebases to React, using tools and techniques such as Figma, Postman,
+and REST APIs.
+Enovate Upstream
+Remote
+Research Data Scientist
+April 2020 – June 2022
+– Lead author of the research Machine Learning Applications to Improve Pore Pressure Prediction in Hazardous
+Drilling Environments, published at OnePetro.
+– Developed time series and physics hybrid-models for drilling measurement predictions, reducing reliance on costly
+logging tools and saving clients over $200,000.
+– Built a robust data cleaning and standardization pipeline in Python, streamlining data preparation across multiple
+clients and reducing manual processing time by 30%.
+Texas A&M University
+College Station, Texas
+Teaching Assistant
+August 2017 – May 2019
+– Taught Python, Matlab, Calculus I, II, Differential Equations, and Discrete Mathematics to engineering students,
+assisting with lectures and grading assessments.
+Technical Skills
+Data Science and Programming: Python (Pandas, Numpy, Scikit-learn), SQL, JavaScript, React, BigQuery, LLM.
+Other: OpenAI api, AWS (S3, Redshift), CI/CD (TeamCity, GitHub).
+Education
+Texas A&M University
+College Station, Texas
+Master of Science in Mathematics
+July 2019
+– Final thesis: Discharging Method on the Planar Graph.
+University of Houston - Downtown
+Houston, Texas
+Bachelor of Science in Mathematics
+May 2017
+– Summa Cum Laude, minor in Computer Science.
+– 4 undergraduate researches in Quantum Calculus.
+– President of Math club (3 years), Scholars Academy member, Pi Mu Epsilon member.
+Recognition and Activities
+1st Place Team - Catalyst Award in Centralized Data | Publicis Groupe - CBS Studio
+December 2024
+– Recognized for developing a scalable data analytics suite that enhances decision-making and bridges siloed data.
+1st Place Team - Publicis Global Data Intelligence Awards | Publicis Groupe
+November 2024
+– Recognized the most innovative analytics solution across Publicis Groupe.
+Mentor | Techsphere
+August 2022 - August 2024
+– Helped Vietnamese professionals with mock interviews in data science and software engineering.
+1st Place Team at Glasstire DataHack | Rice University
+December 2019
+3rd Place Team at TAMU Hack | Texas A&M University
+January 2020","Based on the available information, Huy Bui has been a Data Science Manager at Publicis Groupe since June 2022. His contributions have significantly impacted the development of ROAI, an analytics suite, which has enhanced internal analytics efforts for over 100 analysts and facilitated contracts with global enterprise clients[1]. However, there is no specific information about the recognition he received in 2024 for innovative analytics solutions.
+
+As for the data science initiatives and client-agnostic applications he led, it is known that he contributed to the development of ROAI, which likely involves advanced analytics and data management tools to support business operations and client engagement. These initiatives would have contributed to increased productivity by streamlining analytics processes and improving decision-making capabilities for both internal teams and external clients. However, without more detailed information, it's difficult to specify exactly how these initiatives contributed to innovation at the company or any awards received in 2024.",2,2,4,"The model answer incorrectly states Huy Bui's position as Data Science Manager and mentions development of 'ROAI,' which is not found in the provided document chunk. It also fails to mention key facts from the chunk such as the development of 7 client-agnostic applications, leadership of cross-functional data science initiatives, and explicit recognition from two 2024 awards for innovative analytics solutions at Publicis Groupe. While the answer is mostly clear, it contains inaccuracies and omits significant details relevant to the question about productivity improvements and innovation contribution."
+"How does Cisco Systems, Inc. plan to support customers in modernizing their infrastructure during fiscal year 2024, particularly in terms of automation and real-time network management?","Cisco can help customers connect, protect and draw actionable insights from their technology. We do this in service of 
+delivering the digital resilience our customers need for today’s complex and unpredictable world.
+Customer Priorities
+Modernize Infrastructure
+In an increasingly digital and connected world, where each new connection to the Internet puts more demand on the network, 
+our customers are looking to modernize and transform their infrastructure, including through automation to manage and 
+monitor each connection in real time.
+We continue to transform our enterprise networking portfolio by bringing together several technologies to form an integrated 
+architecture. Our vision is to build a unified management platform experience for on-premise and cloud operating models, that 
+simplifies and helps secure networking for customers at scale.
+Our Observability offerings collect and process daily measurements from customers’ owned and unowned networks, providing 
+automated insights, proactive recommendations, and closed-loop operations tailored to customers to enable them to reduce 
+mean time to resolution of issues and improve IT productivity and user experience.
+For the data center, our strategy is to deliver multicloud architectures that bring policy and operational consistency, regardless 
+of where applications or data reside. We continue to make significant investments in the development of software, silicon and 
+optics, which we believe are the building blocks for the internet for the future.
+As part of modernizing their infrastructure, customers of every size are also looking for solutions to help them communicate 
+more effectively with their customers and to connect their employees more efficiently for productivity. Our collaboration 
+portfolio, which includes interoperable devices and our cloud contact center, provides those solutions, and serves as a key 
+component of smart buildings, powered over ethernet, that we believe will define the workplaces of the future.
+Improve Cybersecurity
+With the rapid growth in modern applications, hyper-distributed architecture and increasingly sophisticated cyberattacks, 
+customers see cybersecurity as a top priority. Our differentiated security strategy is based on three pillars: moving from point 
+solutions to a platform comprehensively integrated with the infrastructure; infusing security into the fabric of the network; and 
+harnessing the depth and breadth of telemetry data from Cisco and with our acquisition of Splunk Inc. (“Splunk”) to prevent, 
+detect, and respond to sophisticated attacks.
+Harness the Power of AI and Data
+AI represents a generational shift in technology and is driving an order of magnitude higher requirement for network 
+connectivity. We provide network infrastructure to power AI training and inference workloads for both webscalers and 
+enterprises. We help to scale our customers’ network infrastructure with high-density routers and switches, improved network 
+management, and high-performance optics. We are reinventing data center operations for our customers by simplifying the 
+configuration, monitoring, and maintenance of fabrics, compute, networking and storage.
+We can help give customers visibility across the network, security solutions, applications and their own business data. With this 
+breadth and scale of data, we can help deliver differentiated insights and context to customers, leading them to more informed 
+proactive decisions and better business results.
+For a discussion of the risks associated with our Strategy and Priorities, see “Item 1A. Risk Factors,” including the risk factor 
+entitled “We depend upon the development of new products and services, and enhancements to existing products and services, 
+and if we fail to predict and respond to emerging technological trends and customers’ changing needs, our operating results and 
+market share may suffer.” For information regarding sales of our major products and services, see Note 19 to the Consolidated 
+Financial Statements.
+2","Cisco Systems, Inc. is supporting customers in modernizing their infrastructure during fiscal year 2024 by focusing on three core customer priorities: building modern and resilient infrastructure, protecting against cyber threats, and harnessing the power of AI and data. 
+
+To address automation and real-time network management specifically, Cisco is delivering solutions that enable end-to-end infrastructure that is self-monitoring, self-analyzing, and self-optimizing[5]. Their Unified Computing portfolio is designed to increase performance, reduce total cost of ownership (TCO), and simplify management by supporting modern automation, orchestration, management, and analytics tools[5]. This approach allows customers to securely and efficiently provision infrastructure resources while gaining actionable insights from their technology environments.
+
+Cisco’s ongoing innovation is delivered through a combination of hardware, software, and subscription-based services, aligning with flexible consumption models that customers increasingly demand. By providing visibility into data across networks, connected devices, and applications, Cisco enables real-time insights and context for customers, supporting both on-premise and cloud infrastructure. 
+
+Additionally, Cisco is investing in AI-ready data center infrastructure and next-generation modular compute systems, such as the UCS X-Series, to offer more flexibility and choice for customers looking to modernize their compute environments[1][3]. These investments are part of a broader strategy to help customers achieve digital resilience and adapt to the complex, unpredictable demands of today’s technology landscape.",5,5,5,"The answer accurately reflects the document chunk, addressing all key points about automation, real-time management, and Cisco’s investments in AI and infrastructure, while remaining clear and complete."
+"What provisions in Netflix, Inc.'s charter documents and Delaware law could discourage a takeover that stockholders might consider favorable as of the fiscal year ended December 31, 2024?","Table of Contents
+Risks Related to Our Stock Ownership
+Provisions in our charter documents and under Delaware law could discourage a takeover that stockholders may consider favorable, although we
+have announced plans to modify some of these provisions over time.
+Our charter documents in their current form may discourage, delay or prevent a merger or acquisition that a stockholder may consider favorable because
+they:
+•
+authorize our board of directors, without stockholder approval, to issue up to 10,000,000 shares of undesignated preferred stock;
+•
+provide for a classified board of directors until our annual meeting of stockholders to be held in 2025;
+•
+prohibit our stockholders from acting by written consent; and
+•
+establish advance notice requirements for proposing matters to be approved by stockholders at stockholder meetings.
+As a Delaware corporation, we are also subject to certain Delaware anti-takeover provisions. Under Delaware law, a corporation may not engage in a
+business combination with any holder of 15% or more of its capital stock unless the holder has held the stock for three years or, among other things, the board
+of directors has approved the transaction. Our board of directors could rely on Delaware law to prevent or delay an acquisition of us.
+In addition, a merger or acquisition may trigger retention payments to certain executive employees under the terms of our Amended and Restated
+Executive Severance and Retention Incentive Plan, thereby increasing the cost of such a transaction.
+Our stock price is volatile.
+The price at which our common stock has traded has fluctuated significantly. The price may continue to be volatile due to a number of factors including
+the following, some of which are beyond our control:
+•
+variations in our operating results, including our membership acquisition and retention, revenues, operating income, net income, net cash provided by
+operating activities and free cash flow;
+•
+variations between our actual operating results and the expectations of securities analysts, investors and the financial community;
+•
+announcements of developments affecting our business, systems or expansion plans by us or others;
+•
+competition, including the introduction of new competitors, their pricing strategies and services;
+•
+market volatility in general;
+•
+the level of demand for our stock, including the amount of short interest in our stock;
+•
+the impact of our current stock repurchase program and any future stock repurchase program we may adopt;
+•
+the operating results of our competitors; and
+•
+other risks and uncertainties described in these risk factors.
+As a result of these and other factors, investors in our common stock may not be able to resell their shares at or above their original purchase price.
+Following certain periods of volatility in the market price of our securities, we became the subject of securities litigation. We may experience more such
+litigation following future periods of volatility. This type of litigation may result in substantial costs and a diversion of management’s attention and resources.
+Preparing and forecasting our financial results requires us to make judgments and estimates which may differ materially from actual results.
+Given the dynamic nature of our business, and the inherent limitations in predicting the future, forecasts of our revenues, operating margins, net income
+and other financial and operating data may differ materially from actual results. Also, predicting consumer adoption of various pricing strategies, such as the
+ad-supported subscription plan or efforts to limit multi-household usage, and new revenue streams, such as advertising revenue, is inherently difficult given the
+lack of operating history with respect to such offerings, and actual results may differ significantly from the expectations of our management, securities analysts
+or investors. Such discrepancies could cause a decline in the trading price of our common stock. In addition, the preparation of consolidated financial
+statements in conformity with accounting principles generally accepted in the United States of America also requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities, disclosures of contingent assets and liabilities at the date of the financial statements, and
+the reported amounts of revenues and expenses during the reported periods. We base such estimates on historical experience and on various other assumptions
+that we believe to be reasonable under the circumstances, but actual results may differ from these estimates. For example, we estimate the content amortization
+pattern, beginning with the month of first availability, of any particular licensed or produced television series, documentary or feature film based upon various
+factors including historical and estimated viewing patterns. If actual viewing patterns differ from these estimates, the
+14","As of the fiscal year ended December 31, 2024, provisions in Netflix, Inc.'s charter documents and Delaware law that could discourage a takeover that stockholders might consider favorable include:
+
+1. **Authorization to Issue Preferred Stock**: Netflix's board of directors can issue up to 10,000,000 shares of undesignated preferred stock without stockholder approval. This can be used to dilute the voting power of common stockholders or to create a class of stock with superior voting rights, potentially discouraging a takeover[1][5].
+
+2. **Classified Board of Directors**: Until the annual meeting of stockholders held in 2025, Netflix's board is classified, meaning directors serve staggered terms. This structure can make it more difficult for an acquirer to gain control of the board quickly[5].
+
+3. **Prohibition on Written Consent**: Stockholders are prohibited from acting by written consent, which can limit their ability to quickly respond to or initiate corporate actions without calling a meeting[5].
+
+4. **Advance Notice Requirements**: Stockholders must provide advance notice for proposing matters to be approved at stockholder meetings, which can delay or complicate the process of initiating a takeover[5].
+
+5. **Delaware Anti-Takeover Provisions**: As a Delaware corporation, Netflix is subject to Delaware law, which includes provisions that can discourage takeovers. For example, a corporation cannot engage in a business combination with a holder of 15% or more of its capital stock unless the holder has held the stock for three years or the board of directors has approved the transaction[5].
+
+6. **Retention Payments**: A merger or acquisition may trigger retention payments to certain executive employees, increasing the cost of such a transaction[5].",5,5,5,"The answer accurately and completely lists all relevant provisions and state law considerations mentioned in the document chunk, presenting them clearly and precisely."
+"What are the key factors that Amazon identified as potentially impacting its business in 2024, including technological changes and operational risks?","•
+changes in usage or adoption rates of the internet, e-commerce, electronic devices, web services, satellite 
+communications services, and artificial intelligence and machine learning technologies, products, and services, 
+including outside the U.S.;
+•
+timing, effectiveness, and costs of expansion and upgrades of our systems and infrastructure;
+•
+the success of our geographic, service, and product line expansions;
+•
+the extent to which we finance, and the terms of any such financing for, our current operations and future growth;
+•
+the outcomes of legal proceedings and claims, which may include significant monetary damages or injunctive relief 
+and could have a material adverse impact on our operating results;
+•
+variations in the mix of products and services we sell;
+•
+variations in our level of merchandise and vendor returns;
+•
+the extent to which we offer fast and free delivery, continue to reduce prices worldwide, and provide additional 
+benefits to our customers;
+•
+factors affecting our reputation or brand image (including any actual or perceived inability to achieve our goals or 
+commitments, whether related to sustainability, customers, employees, or other topics), and public perceptions 
+regarding our positions on social or ethical issues and our development and use of artificial intelligence, machine 
+learning, and automation technologies, products, and services;
+•
+the extent to which we invest in technology and infrastructure, fulfillment, and other expense categories;
+•
+availability of and increases in the prices of transportation (including fuel), resources such as land, water, and energy, 
+commodities like paper and packing supplies and hardware products, and technology infrastructure products, 
+including as a result of inflationary pressures;
+•
+constrained labor markets, which increase our payroll costs;
+•
+the extent to which operators of the networks between our customers and our stores successfully charge fees to grant 
+our customers unimpaired and unconstrained access to our online services;
+•
+our ability to collect amounts owed to us when they become due;
+•
+the extent to which new and existing technologies, or industry trends, restrict online advertising or affect our ability to 
+customize advertising or otherwise tailor our product and service offerings;
+•
+the extent to which use of our services is affected by spyware, viruses, phishing and other spam emails, denial of 
+service attacks, data theft, computer intrusions, outages, and similar events;
+•
+the extent to which we fail to maintain our unique culture of innovation, customer obsession, and long-term thinking, 
+which has been critical to our growth and success;
+•
+disruptions from natural or human-caused disasters (including public health crises) or extreme weather (including as a 
+result of climate change), geopolitical events and security issues (including terrorist attacks, armed hostilities, and 
+political conflicts, including those involving China), labor or trade disputes (including restrictive governmental 
+actions impacting us, our customers, and our third-party sellers and suppliers in China or other foreign countries), 
+tariff policy changes, and similar events; and
+•
+potential negative impacts of climate change, including: increased operating costs due to more frequent extreme 
+weather events or climate-related changes, such as rising temperatures and water scarcity; increased investment 
+requirements associated with the transition to a low-carbon economy; decreased demand for our products and 
+services as a result of changes in customer behavior; increased compliance costs due to more extensive and global 
+regulations and third-party requirements; and reputational damage resulting from perceptions of our environmental 
+impact.
+We Face Risks Related to Successfully Optimizing and Operating Our Fulfillment Network and Data Centers
+Failures to adequately predict customer demand and consumer spending patterns or otherwise optimize and operate our 
+fulfillment network and data centers successfully from time to time result in excess or insufficient fulfillment or data center 
+capacity, service interruptions, increased costs, and impairment charges, any of which could materially harm our business. As 
+we continue to add fulfillment and data center capability or add new businesses with different requirements, our fulfillment and 
+data center networks become increasingly complex and operating them becomes more challenging. There can be no assurance 
+that we will be able to operate our networks effectively.
+10","Amazon identified several key factors that could potentially impact its business in 2024, spanning technological changes, operational risks, and broader economic and market dynamics. These are outlined in its 2024 Annual Report and related guidance, as well as in industry trend analyses.
+
+## Key Factors Impacting Amazon’s Business in 2024
+
+**Technological Changes**
+
+- **Artificial Intelligence (AI) and Advanced Analytics:** Amazon highlighted the growing impact of AI and analytics on its operations, customer experience, and seller success. The company launched new AI infrastructure and services, such as custom AI silicon (Trainium2), new foundation models (Amazon Nova), and expanded generative AI features in Amazon SageMaker and Amazon Bedrock. AI is also being used to optimize pricing, procurement, and fulfillment processes[2][4][5].
+- **Augmented Reality (AR) and Virtual Reality (VR):** The adoption of AR and VR technologies is enhancing the shopping experience, allowing customers to visualize products before purchase and improving engagement[4].
+- **Procurement and Automation:** Amazon noted increased investment in analytics, automation, and AI tools to streamline procurement and supply chain operations, with a focus on efficiency and strategic business buying[5].
+- **Cloud and Digital Services Growth:** The rapid growth of cloud services (AWS) and digital content offerings is a significant driver of revenue and innovation, with AWS revenue increasing 19% year-over-year in 2024[2].
+
+**Operational Risks and External Factors**
+
+- **Global Economic and Geopolitical Conditions:** Fluctuations in foreign exchange rates, changes in global economic conditions, inflation, interest rates, and world events (such as geopolitical tensions) can materially affect Amazon’s results[2].
+- **Customer Demand and Spending:** Shifts in customer demand, including the impact of recessionary fears and changes in consumer spending habits, are critical risks[2].
+- **Labor Market Constraints:** Regional labor shortages or disruptions can impact fulfillment, delivery, and overall operational efficiency[2].
+- **Growth of Internet and Online Commerce:** The rate of growth of the internet, online commerce, and cloud services influences Amazon’s market opportunities and competitive landscape[2].
+- **Competition and Market Saturation:** Increased competition from both large and small companies, as well as the entry of big-name retailers onto the Amazon marketplace, poses ongoing challenges[4].
+- **Regulatory and Legal Risks:** Outcomes of claims, litigation, government investigations, and regulatory changes can affect Amazon’s operations and financial performance[2].
+- **Inventory and Fulfillment Management:** Risks related to inventory management, fulfillment throughput, and productivity are ongoing concerns, especially as Amazon continues to expand its product selection and delivery speed[2].
+
+**Strategic and Internal Factors**
+
+- **Investment in New Business Opportunities:** The timing and amount of investments in new initiatives, acquisitions, and strategic transactions can impact financial results and operational focus[2].
+- **Product and Service Mix:** The mix of products versus services sold, and the expansion into new product categories and services, affects revenue and profitability[2].
+- **Customer Experience and Trust:** Amazon emphasizes the importance of improving all aspects of the customer experience, including price, selection, delivery speed, and reliability, to drive growth and maintain trust[2].
+
+## Summary Table
+
+| Factor Category         | Key Elements                                                                                 |
+|------------------------|---------------------------------------------------------------------------------------------|
+| Technological Changes  | AI, analytics, AR/VR, automation, cloud services, digital content                           |
+| Operational Risks      | Economic/geopolitical conditions, customer demand, labor constraints, competition           |
+| External Risks         | Regulatory/legal, inventory/fulfillment, growth of internet/online commerce                 |
+| Strategic/Internal     | Investment timing, product/service mix, customer experience, trust                          |
+
+Amazon’s approach to managing these factors is rooted in a culture of innovation, customer-centricity, and disciplined decision-making, with a focus on both short-term execution and long-term strategic investments[2][4][5].",4,4,5,"The answer is highly accurate and clear, but includes some minor omissions (such as specific mentions of supply costs, regulatory risks, and technology infrastructure challenges) and a slight overemphasis on AI/analytics not entirely reflected in the document chunk."
+"How did foreign exchange effects impact Meta Platforms, Inc.’s reported revenue and advertising revenue, and what were the corresponding year-over-year growth rates for these metrics, as reflected in the company’s financial results for the full year ended December 31, 2024?","Reconciliation of GAAP to Non-GAAP Results
+(In millions, except percentages)
+(Unaudited)
+Three Months Ended 
+December 31,
+Twelve Months Ended 
+December 31,
+2024
+2023
+2024
+2023
+GAAP revenue
+$ 48,385 
+$ 
+40,111 $ 164,501 
+$ 
+134,902 
+Foreign exchange effect on 2024 revenue using 2023 rates
+ 
+65 
+ 
+874 
+Revenue excluding foreign exchange effect
+$ 48,450 
+$ 165,375 
+GAAP revenue year-over-year change %
+ 21 %
+ 22 %
+Revenue excluding foreign exchange effect year-over-year change 
+%
+ 21 %
+ 23 %
+GAAP advertising revenue
+$ 46,783 
+$ 
+38,706 $ 160,633 
+$ 
+131,948 
+Foreign exchange effect on 2024 advertising revenue using 2023 
+rates
+ 
+81 
+ 
+880 
+Advertising revenue excluding foreign exchange effect
+$ 46,864 
+$ 161,513 
+GAAP advertising revenue year-over-year change %
+ 21 %
+ 22 %
+Advertising revenue excluding foreign exchange effect year-over-
+year change %
+ 21 %
+ 22 %
+Net cash provided by operating activities
+$ 27,988 
+$ 
+19,404 $ 91,328 
+$ 
+71,113 
+Purchases of property and equipment
+ (14,425) 
+ 
+(7,592)  (37,256) 
+ 
+(27,045) 
+Principal payments on finance leases
+ 
+(411) 
+ 
+(307)  
+(1,969) 
+ 
+(1,058) 
+Free cash flow
+$ 13,152 
+$ 
+11,505 $ 52,103 
+$ 
+43,010 
+10","The search results do not provide specific information about how foreign exchange effects impacted Meta Platforms, Inc.'s reported revenue and advertising revenue for the full year ended December 31, 2024. However, they do provide general information about Meta's financial performance for that period.
+
+Meta reported a total revenue of $164.50 billion for the full year 2024, which represents a 22% increase from the previous year[3][5]. The company's revenue growth was driven by various factors, including increased ad impressions and higher average prices per ad[3]. However, the specific impact of foreign exchange effects on these metrics is not detailed in the available search results.
+
+For a precise understanding of how foreign exchange rates affected Meta's revenue and advertising revenue, it would be necessary to consult Meta's official financial reports or statements that specifically address foreign exchange impacts.",3,2,4,"The answer correctly reports general revenue growth figures but incorrectly states that the search results do not provide foreign exchange effects, while the document chunk clearly shows the impact of foreign exchange on reported revenue and advertising revenue with specific amounts and adjusted growth rates. The answer misses the detailed reconciliation of GAAP to non-GAAP revenue growth with and without foreign exchange effects, hence is incomplete. The explanation is mostly clear but could have been more precise regarding the available data."
+"How does NVIDIA Corporation’s approach to leveraging its intellectual property and providing GPU-based hardware solutions help automotive partners, tier-1 suppliers, and start-ups address the complex challenges in autonomous driving for fiscal year 2024?","tier-1 suppliers, and start-ups. Our AV solution also includes the GPU-based hardware required to train the neural 
+networks before their in-vehicle deployment, as well as to re-simulate their operation prior to any over-the-air software 
+updates. We believe our comprehensive, top-to-bottom and end-to-end approach will enable the transportation industry 
+to solve the complex problems arising from the shift to autonomous driving.
+Leveraging our intellectual property, or IP. We believe our IP is a valuable asset that can be accessed by our customers 
+and partners through license and development agreements when they desire to build such capabilities directly into their 
+own products or have us do so through a custom development. Such license and development arrangements can further 
+enhance the reach of our technology.
+Sales and Marketing
+Our worldwide sales and marketing strategy is key to achieving our objective of providing markets with our high-
+performance and efficient computing platforms and software. Our sales and marketing teams, located across our global 
+markets, work closely with end customers and various industry ecosystems through our partner network. Our partner 
+network incorporates global, regional and specialized CSPs, OEMs, ODMs, system integrators, independent software 
+vendors, or ISVs, add-in board manufacturers, or AIBs, distributors, automotive manufacturers and tier-1 automotive 
+suppliers, and other ecosystem participants.
+Members of our sales team have technical expertise and product and industry knowledge. We also employ a team of 
+application engineers and solution architects to provide pre-sales assistance to our partner network in designing, testing, 
+and qualifying system designs that incorporate our platforms. For example, our solution architects work with CSPs to 
+provide pre-sales assistance to optimize their hardware and software infrastructure for generative AI and LLM training 
+and deployment. They also work with foundation model and enterprise software developers to optimize the training and 
+fine-tuning of their models and services, and with enterprise end-users, often in collaboration with their global system 
+integrator of choice, to fine-tune models and build AI applications. We believe that the depth and quality of our design 
+support are key to improving our partner network’s time-to-market, maintaining a high level of customer satisfaction, and 
+fostering relationships that encourage our end customers and partner network to use the next generation of our 
+products within each platform.
+To encourage the development of applications optimized for our platforms and software, we seek to establish and 
+maintain strong relationships in the software development community. Engineering and marketing personnel engage 
+with key software developers to promote and discuss our platforms, as well as to ascertain individual product 
+requirements and solve technical problems. Our developer program supports the development of AI frameworks, SDKs, 
+and APIs for software applications and game titles that are optimized for our platforms. Our Deep Learning Institute 
+provides in-person and online training for developers in industries and organizations around the world to build AI and 
+accelerated computing applications that leverage our platforms.
+Seasonality
+Our computing platforms serve a diverse set of markets such as data centers, gaming, professional visualization, and 
+automotive. Our desktop gaming products typically see stronger revenue in the second half of our fiscal year. Historical 
+seasonality trends may not repeat.
+Manufacturing 
+We utilize a fabless and contracting manufacturing strategy, whereby we employ and partner with key suppliers for all 
+phases of the manufacturing process, including wafer fabrication, assembly, testing, and packaging. We use the expertise 
+of industry-leading suppliers that are certified by the International Organization for Standardization in such areas as 
+fabrication, assembly, quality control and assurance, reliability, and testing. Additionally, we can avoid many of the 
+significant costs and risks associated with owning and operating manufacturing operations. While we may directly 
+procure certain raw materials used in the production of our products, such as memory, substrates, and a variety of 
+components, our suppliers are responsible for procurement of most raw materials used in the production of our products. 
+As a result, we can focus our resources on product design, quality assurance, marketing, and customer support. In periods 
+of growth, we may place non-cancellable inventory orders for certain product components in advance of our historical 
+lead times, pay premiums, or provide deposits to secure future supply and capacity and may need to continue to do so.
+We have expanded our supplier relationships to build redundancy and resilience in our operations to provide long-term","NVIDIA Corporation leverages its intellectual property and GPU-based hardware solutions to help automotive partners, tier-1 suppliers, and start-ups address the complex challenges of autonomous driving through a comprehensive, end-to-end AI computing platform and ecosystem.
+
+**Key elements of NVIDIA's approach include:**
+
+- **Three-Computer Solution for Autonomous Vehicles:** NVIDIA provides a unified AI development solution consisting of three main computing platforms. AI models are trained on the NVIDIA DGX™ platform, a high-performance AI training compute system designed to handle the massive datasets and complex scenarios required for autonomous driving development. This training enables the creation of sophisticated AI models capable of tackling complex driving situations[1][2].
+
+- **Simulation and Validation with Omniverse and Cosmos:** NVIDIA Omniverse™ and Cosmos™ platforms simulate diverse, physically accurate environments to test and validate autonomous vehicle (AV) systems. These tools allow developers to build digital twins from real-world sensor data, model physics and behavior, and generate varied sensor data under different conditions such as weather, lighting, and geography. This simulation capability accelerates development and improves safety by enabling extensive testing before deployment[1][2].
+
+- **In-Vehicle Real-Time Computing with DRIVE AGX:** The NVIDIA DRIVE AGX™ platform is a sensor-integrated reference system that streamlines prototyping, simulation, and validation for autonomous systems. Powered by the safety-certified DriveOS™, DRIVE AGX delivers high compute performance to process data from cameras, radar, and lidar sensors in real time, enabling safe and reliable autonomous driving decisions on the road[1][2].
+
+- **Safety-First Approach with NVIDIA Halos:** NVIDIA extends its safety-first philosophy across the entire AV development lifecycle—from simulation and training to deployment—through NVIDIA Halos, which provides guardrails and standards to ensure robust safety measures are integrated throughout the process[1][2].
+
+- **Unified AI Development Ecosystem:** By combining best-in-class software, infrastructure, and expertise, NVIDIA offers a scalable and efficient platform that supports continuous innovation. This ecosystem enables automotive partners, tier-1 suppliers, and start-ups to train, test, and deploy autonomous driving systems more effectively, reducing bottlenecks and accelerating time to market[1][2].
+
+This integrated approach, leveraging NVIDIA's intellectual property in GPU-accelerated computing, AI software, and simulation technologies, empowers the automotive ecosystem to address the multifaceted challenges of autonomous driving in fiscal year 2024 by providing scalable, high-performance, and safety-certified solutions tailored for real-world deployment. 
+
+Thus, NVIDIA's platform not only accelerates AI model training and validation but also ensures real-time, safe decision-making in vehicles, helping partners navigate the complexity of autonomous vehicle development efficiently and reliably[1][2].",2,1,4,"The model answer includes extensive details about NVIDIA's autonomous vehicle platforms and software ecosystem (DGX, Omniverse, DRIVE AGX, Halos) that are not present in the provided document chunk, which only broadly states that NVIDIA provides GPU-based hardware and licenses IP to automotive partners and tier-1 suppliers to solve complex autonomous driving challenges. The detailed references to specific products, simulation tools, safety frameworks, and ecosystem support are unsupported by the chunk. Therefore, the answer contains major factual inaccuracies relative to the source and misses the key insight from the chunk about IP licensing and collaboration. Clarity is good, but the answer does not align with or rely on the provided document chunk, resulting in low factual correctness and completeness."
+"What criteria did the auditors use to evaluate Alphabet Inc.'s internal control over financial reporting as of December 31, 2024?","REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Stockholders and the Board of Directors of Alphabet Inc.
+Opinion on Internal Control Over Financial Reporting
+We have audited Alphabet Inc.’s internal control over financial reporting as of December 31, 2024, based on criteria 
+established in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the 
+Treadway Commission (2013 framework) (the COSO criteria). In our opinion, Alphabet Inc. (the Company) maintained, 
+in all material respects, effective internal control over financial reporting as of December 31, 2024, based on the COSO 
+criteria.
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United 
+States) (PCAOB), the 2024 consolidated financial statements of the Company and our report dated February 4, 2025 
+expressed an unqualified opinion thereon. 
+Basis for Opinion
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its 
+assessment of the effectiveness of internal control over financial reporting included in the accompanying 
+Management’s Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the 
+Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with 
+the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal 
+securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and 
+perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was 
+maintained in all material respects.
+Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a 
+material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on 
+the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We 
+believe that our audit provides a reasonable basis for our opinion.
+Definition and Limitations of Internal Control Over Financial Reporting
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding 
+the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with 
+generally accepted accounting principles. A company’s internal control over financial reporting includes those policies 
+and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the 
+transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are 
+recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting 
+principles, and that receipts and expenditures of the company are being made only in accordance with authorizations 
+of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely 
+detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on 
+the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. 
+Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become 
+inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may 
+deteriorate.
+/s/ Ernst & Young LLP
+San Jose, California
+February 4, 2025
+Table of Contents
+Alphabet Inc.
+51.","The auditors evaluated Alphabet Inc.’s internal control over financial reporting as of December 31, 2024, using the criteria established in the **Internal Control—Integrated Framework (2013 framework) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO)**. This framework is widely recognized as the standard for assessing the effectiveness of internal controls over financial reporting for U.S. public companies[2].
+
+The COSO framework includes five components:  
+1. **Control Environment**  
+2. **Risk Assessment**  
+3. **Control Activities**  
+4. **Information and Communication**  
+5. **Monitoring Activities**  
+
+Each component is supported by principles that guide the design, implementation, and evaluation of internal controls. The auditors’ opinion was based on whether Alphabet’s internal controls met these COSO criteria in all material respects[2][5].
+
+Additionally, the audit was conducted in accordance with the standards of the **Public Company Accounting Oversight Board (PCAOB)**, which require the auditors to obtain reasonable assurance about the effectiveness of internal control over financial reporting. The audit process included understanding internal controls, assessing the risk of material weaknesses, and testing and evaluating the design and operating effectiveness of controls based on the assessed risk[2].",5,5,5,"The answer accurately identifies the criteria used by the auditors, namely the COSO 2013 Internal Control—Integrated Framework, and clearly explains the five components of the COSO framework. It also correctly notes the audit standards of the PCAOB and the audit procedures performed, fully consistent with the document chunk. The response is detailed, precise, and well-structured for clarity."
+"How could changes to legal protections for content moderation and third-party content impact Reddit, Inc.'s potential liability and operational costs for the fiscal year ended December 31, 2024?","Our current protections from liability for content moderation decisions and third-party content posted on our platform in the 
+United States could decrease or change, potentially resulting in increased liability for content moderation decisions and third-
+party content posted on our platform and higher litigation costs. 
+We could also face fines, orders restricting or blocking our services in particular geographies, or other government-
+imposed remedies as a result of content hosted on our services. This risk is enhanced in certain jurisdictions outside of the 
+United States where our protection from liability for third-party actions may be unclear or where we may be less protected 
+under local laws than we are in the United States. Numerous countries in Europe, the Middle East, Asia-Pacific, and Latin 
+America are considering or have implemented legislation and regulations imposing potentially significant penalties, including 
+fines, service throttling, access bans, or advertising bans, for failure to remove certain types of content or follow certain 
+processes. For example, legislation in Germany and India has resulted in the past, and may result in the future, in the imposition 
+of fines or other penalties for failure to comply with certain content removal, law enforcement cooperation, and disclosure 
+obligations. Content-related legislation and regulations also have required us in the past, and may require us in the future, to 
+Table of Contents
+34","Changes to legal protections for content moderation and third-party content could significantly impact Reddit, Inc.'s potential liability and operational costs for the fiscal year ended December 31, 2024. 
+
+## Impact on Liability
+
+- Reddit’s current content moderation relies on a multi-layered approach involving community moderators (""mods"") who enforce community-specific rules, alongside Reddit employees (""admins"") who enforce sitewide rules. This decentralized model helps manage content at scale but depends heavily on legal protections that shield platforms from liability for third-party content posted by users[2][3].
+
+- If legal protections for content moderation or immunity for third-party content providers were weakened or removed, Reddit could face increased legal exposure. This would mean Reddit might be held liable for user-generated content that violates laws or regulations, increasing the risk of costly litigation or regulatory penalties[4].
+
+- Such changes could also require Reddit to be more proactive and stringent in content review and removal to mitigate liability, potentially leading to more aggressive moderation policies and increased scrutiny of user content[4].
+
+## Impact on Operational Costs
+
+- Increased liability risks would likely drive up Reddit’s operational costs, as the company would need to invest more in content moderation infrastructure, including hiring more moderators, enhancing automated detection systems, and legal compliance measures[4].
+
+- Reddit already invests in machine learning systems and a combination of automated and manual review to enforce content policies, as reflected in their transparency reports showing increased bans for policy violations[1]. Changes in legal protections could necessitate further scaling of these systems and processes, increasing hosting and operational expenses[4].
+
+- Additionally, Reddit might face higher costs related to legal defenses, settlements, or compliance with new regulatory requirements, which could affect its financial condition and prospects[4].
+
+## Summary
+
+In summary, any changes that reduce legal protections for content moderation and third-party content providers could increase Reddit’s potential liability for user content and substantially raise operational costs related to content moderation and legal compliance during the fiscal year ended December 31, 2024. This would pose risks to Reddit’s business, results of operations, and financial condition[4].",4,4,5,"The model answer accurately captures the key risks Reddit faces if legal protections for content moderation and third-party content change, including increased liability and operational costs, consistent with the document chunk. It reasonably integrates Reddit's moderation approach and potential financial impacts. However, the answer infers some operational details and internal processes not explicitly stated in the chunk but supported by related context from the sources, and it does not explicitly mention geographic-specific risks or government-imposed remedies detailed in the chunk, hence slightly deducting completeness and factual exactness."
+How did Tesla's hiring and development programs contribute to its employee growth and retention in 2024?,"Table of Contents
+We believe that sound corporate governance is critical to helping us achieve our goals, including with respect to ESG. We
+continue to evolve a governance framework that exercises appropriate oversight of responsibilities at all levels throughout the company
+and manages its affairs consistent with high principles of business ethics. Our Sustainability and Impact team, in conjunction with
+leaders from across our Company, regularly presents to our Board of Directors, which oversees our ESG impacts, initiatives and
+priorities.
+Human Capital Resources
+Tesla’s ability to attract, develop and retain a talented workforce is a competitive advantage. During the past year, Tesla provided
+its workforce with opportunities to contribute to its mission and grow professionally, earning Tesla among the Top 100 Employers of
+Choice in the 2024 American Opportunity Index. As of December 31, 2024, our employee headcount worldwide was 125,665.
+Employees can participate in Tesla stock ownership programs (of which 92% have been given the opportunity to as part of their
+total rewards package), while accessing industry-leading benefits, such as free counseling, paid parental leave, paid time off, company
+sponsored 401(k) plans, no cost fertility and adoption programs and zero-premium medical plan options that are made available on the
+first day of employment.
+We hire, evaluate and promote employees based on their skills and performance. In 2024, over 13,000 of our employees
+worldwide, 80% of whom represent Tesla’s frontline workforce, took advantage of opportunities to advance their career within the
+Company. As of this report, more than two-thirds (68%) of our managers have been promoted from internal, non-managerial positions,
+and 45% of our management team has been with Tesla for over five years.
+Tesla cultivates an environment that recognizes employee wins and impacts. We enhance everyday recognition by spotlighting
+employees and empowering them to recognize each other’s successes. We inform and engage employees to help foster a connected
+Tesla experience that supports the business. To enable employee performance, we provide opportunities for them to learn and grow,
+including:
+Internships & Fellowships
+•
+Professional Internships – Every year, Tesla hires approximately 4,000 university and community college students globally
+for internships across all business groups. We partner with campuses and student organizations to build a high-quality pipeline
+of talent, particularly individuals passionate about sustainable energy and autonomy. From day one, our interns contribute to
+meaningful projects, often times leading to full-time positions upon completion of their internships.
+•
+Military Fellowship Program – Tesla's Fellowship program, in partnership with the U.S. Chamber of Commerce
+Foundation’s Hire Our Heroes, offers exiting military service members corporate industry experience during their transition in
+service. The program aims to convert high-performing individuals to full-time roles and create a veteran talent pipeline for
+opportunities across Tesla North America.
+Development Programs
+•
+Manufacturing Development Program – Tesla's global manufacturing pathway programs are designed to provide graduating
+high school seniors and early career individuals with the financial resources, coursework and experience they need to start a
+successful manufacturing career at Tesla. Through 2024, Tesla expanded the program to new campuses and hired over 800
+graduates with a goal for continued growth. In 2025, Tesla plans to hire over 1,000 participants across our factories.
+•
+Supervisor Professional Program – The Supervisor program is designed for industrial foremen that provides employees the
+opportunity to develop expertise in their field. Across a 16-month period, employees take comprehensive coursework in the
+fields of technology, law, organization and personnel management. In 2024, our employees became people leaders in the fields
+of metal production and electrical technology.
+11
+5/25/25, 1:46 PM
+tsla-20241231
+https://www.sec.gov/Archives/edgar/data/1318605/000162828025003063/tsla-20241231.htm
+21/157","Tesla’s hiring and development programs in 2024 played a significant role in both employee growth and retention by offering structured pathways for advancement, continuous learning, and meaningful engagement.
+
+## Key Contributions to Employee Growth
+
+- **Internal Promotion and Career Development**
+  - Nearly two-thirds (65%) of Tesla’s managers were promoted from internal, non-manager positions, highlighting a strong culture of internal mobility and career progression.
+  - The company’s rapid growth (35% over two years) created numerous opportunities for employees to take on new roles and responsibilities, fostering professional development and engagement[1][5].
+- **Specialized Training and Certification Programs**
+  - **Technician Trainee Program:** Provided on-the-job automotive maintenance training and industry certification, targeting individuals with limited experience. Over 1,900 trainees were hired in 2023 across the U.S., Germany, and China.
+  - **START Program:** An intensive, immersive training program for manufacturing and service roles, partnering with colleges and technical academies. Over 350 trainees were hired in 2023, with many transitioning to full-time roles.
+  - **Manufacturing Development Program (MDP):** Designed for high school graduates, offering financial resources, coursework, and hands-on experience. Tesla hired 373 graduates in 2023 and aimed to expand to over 600 annually in 2024.
+  - **Engineering Development Program:** Launched in 2024 for recent college graduates, focusing on specialized engineering fields and high-demand technologies.
+  - **Apprenticeships:** Offered globally, providing academic and on-the-job training for skilled trades, with programs lasting one to four years[1][5].
+- **Internships and University Partnerships**
+  - Tesla hires over 6,000 university and college students annually from around the world, offering meaningful work and often converting top interns to full-time positions[3][4].
+- **Military Fellowship and Transition Programs**
+  - These programs support exiting military service members in the U.S. and Europe, providing career guidance and creating a pipeline for veteran talent.
+
+## Key Contributions to Employee Retention
+
+- **Ownership and Benefits**
+  - 89% of employees have been given the opportunity to own Tesla stock, fostering a sense of ownership and alignment with company success.
+  - Comprehensive benefits include free counseling, paid parental leave, paid time off, and zero-premium medical plan options available from day one.
+- **Leadership and Skills Development**
+  - Fundamental skills training and continuous development are offered to all leaders globally.
+  - Leadership development programs help managers address employee concerns and foster a positive work environment.
+- **Inclusive and Respectful Workplace**
+  - Tesla’s policies promote fairness, respect, and zero tolerance for harassment or discrimination.
+  - Anti-harassment training is mandatory for all new hires and recurring for leaders.
+  - Employees are encouraged to speak up about misconduct or safety concerns, with established protocols for investigation and remediation.
+- **Employee Educational Assistance Program**
+  - Launched in the U.S. in spring 2024, this program supports employees pursuing certificates or degrees, with virtual, self-paced education options.
+
+## Summary Table: Tesla’s Hiring and Development Programs (2024)
+
+| Program/Initiative                | Target Audience                | Key Features                                      | Impact on Growth/Retention         |
+|-----------------------------------|-------------------------------|---------------------------------------------------|------------------------------------|
+| Technician Trainee Program        | Entry-level, limited experience| On-the-job training, certification                | Skill development, job readiness   |
+| START Program                     | College/technical students     | Intensive training, full-time transition           | Talent pipeline, retention         |
+| Manufacturing Development Program | High school graduates          | Financial support, coursework, hands-on experience| Career launch, internal mobility   |
+| Engineering Development Program   | Recent college graduates       | Specialized engineering training                   | Technical workforce growth         |
+| Internships                       | University/college students    | Meaningful work, full-time conversion              | Early talent acquisition           |
+| Apprenticeships                   | Skilled trades aspirants       | Academic and on-the-job training                   | Skilled workforce development      |
+| Military Fellowship/Transition    | Exiting military personnel     | Career guidance, full-time conversion              | Veteran talent pipeline            |
+| Employee Educational Assistance   | All employees                  | Support for certificates/degrees                   | Continuous learning, retention     |
+
+## Conclusion
+
+Tesla’s robust hiring and development programs in 2024 contributed to employee growth by offering clear pathways for advancement, specialized training, and meaningful work experiences. Retention was bolstered by a culture of internal promotion, comprehensive benefits, leadership development, and a strong commitment to an inclusive and respectful workplace. These initiatives collectively positioned Tesla as a desirable employer and supported its continued innovation and expansion[1][5].",2,2,5,"The model answer contains significant factual inaccuracies, such as overstating internal promotion rates (claims 65% vs documented 68%) and includes programs like Technician Trainee, START, and Engineering Development Program which are not mentioned in the source document. It also incorrectly exaggerates employee numbers and growth. The answer is well structured and clearly presented but fails to rely on the provided document chunk, resulting in incomplete coverage of the actual Tesla 2024 hiring and development initiatives and employee retention details."
+"Question:
+
+What types of officer certificates and forms of global notes related to Apple Inc.’s debt due between 2026 and 2053 were included in the Form 8-K exhibit during the fiscal year ended September 28, 2024, and what are the respective interest rates for each note?","Incorporated by Reference
+Exhibit Number
+Exhibit Description
+Form
+Exhibit
+Filing Date/
+Period End
+Date
+4.28
+Officer’s Certificate of the Registrant, dated as of May 10, 2023, including forms of global notes
+representing the 4.421% Notes due 2026, 4.000% Notes due 2028, 4.150% Notes due 2030,
+4.300% Notes due 2033 and 4.850% Notes due 2053.
+8-K
+4.1
+5/10/23
+4.29*
+Apple Inc. Deferred Compensation Plan.
+S-8
+4.1
+8/23/18
+10.1*
+Apple Inc. Employee Stock Purchase Plan, as amended and restated as of March 10, 2015.
+8-K
+10.1
+3/13/15
+10.2*
+Form of Indemnification Agreement between the Registrant and each director and executive officer
+of the Registrant.
+10-Q
+10.2
+6/27/09
+10.3*
+Apple Inc. Non-Employee Director Stock Plan, as amended November 9, 2021.
+10-Q
+10.1
+12/25/21
+10.4*
+Apple Inc. 2014 Employee Stock Plan, as amended and restated as of October 1, 2017.
+10-K
+10.8
+9/30/17
+10.5*
+Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of
+September 26, 2017.
+10-K
+10.20
+9/30/17
+10.6*
+Form of Restricted Stock Unit Award Agreement under Non-Employee Director Stock Plan effective
+as of February 13, 2018.
+10-Q
+10.2
+3/31/18
+10.7*
+Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of
+August 21, 2018.
+10-K
+10.17
+9/29/18
+10.8*
+Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of
+September 29, 2019.
+10-K
+10.15
+9/28/19
+10.9*
+Form of Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as of
+August 18, 2020.
+10-K
+10.16
+9/26/20
+10.10*
+Form of Performance Award Agreement under 2014 Employee Stock Plan effective as of August 18,
+2020.
+10-K
+10.17
+9/26/20
+10.11*
+Form of CEO Restricted Stock Unit Award Agreement under 2014 Employee Stock Plan effective as
+of September 27, 2020.
+10-Q
+10.1
+12/26/20
+10.12*
+Form of CEO Performance Award Agreement under 2014 Employee Stock Plan effective as of
+September 27, 2020.
+10-Q
+10.2
+12/26/20
+10.13*
+Apple Inc. 2022 Employee Stock Plan.
+8-K
+10.1
+3/4/22
+10.14*
+Form of Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as of
+March 4, 2022.
+8-K
+10.2
+3/4/22
+10.15*
+Form of Performance Award Agreement under 2022 Employee Stock Plan effective as of March 4,
+2022.
+8-K
+10.3
+3/4/22
+10.16*
+Apple Inc. Executive Cash Incentive Plan.
+8-K
+10.1
+8/19/22
+10.17*
+Form of CEO Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as
+of September 25, 2022.
+10-Q
+10.1
+12/31/22
+10.18*
+Form of CEO Performance Award Agreement under 2022 Employee Stock Plan effective as of
+September 25, 2022.
+10-Q
+10.2
+12/31/22
+10.19*, **
+Form of Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as of
+September 29, 2024.
+10.20*, **
+Form of Performance Award Agreement under 2022 Employee Stock Plan effective as of September
+29, 2024.
+10.21*, **
+Form of CEO Restricted Stock Unit Award Agreement under 2022 Employee Stock Plan effective as
+of September 29, 2024.
+10.22*, **
+Form of CEO Performance Award Agreement under 2022 Employee Stock Plan effective as of
+September 29, 2024.
+19.1**
+Insider Trading Policy
+21.1**
+Subsidiaries of the Registrant.
+23.1**
+Consent of Independent Registered Public Accounting Firm.
+24.1**
+Power of Attorney (included on the Signatures page of this Annual Report on Form 10-K).
+31.1**
+Rule 13a-14(a) / 15d-14(a) Certification of Chief Executive Officer.
+31.2**
+Rule 13a-14(a) / 15d-14(a) Certification of Chief Financial Officer.
+32.1***
+Section 1350 Certifications of Chief Executive Officer and Chief Financial Officer.
+97.1*, **
+Rule 10D-1 Recovery Policy
+Apple Inc. | 2024 Form 10-K | 55","During the fiscal year ended September 28, 2024, Apple Inc.'s Form 8-K exhibit included officer certificates and forms of global notes related to several series of debt due between 2026 and 2053. The notes and their respective interest rates are as follows:
+
+- 4.421% Notes due 2026  
+- 4.000% Notes due 2028  
+- 3.450% Notes due 2030  
+- 3.700% Notes due 2033  
+- 4.850% Notes due 2053  
+
+These notes were offered with identical terms within each series, as confirmed by the officer certificates included in the filing[1][2][3].
+
+To summarize:
+
+| Maturity Year | Interest Rate | Note Description                  |
+|---------------|---------------|---------------------------------|
+| 2026          | 4.421%        | Notes due 2026                  |
+| 2028          | 4.000%        | Notes due 2028                  |
+| 2030          | 3.450%        | Notes due 2030                  |
+| 2033          | 3.700%        | Notes due 2033                  |
+| 2053          | 4.850%        | Notes due 2053                  |
+
+The officer certificates and forms of global notes for these series were included as exhibits in the Form 8-K filings during the fiscal year, establishing the terms and conditions for these debt instruments[2].",3,3,5,"The answer correctly identifies the officer certificates and forms of global notes for Apple Inc.'s debt due between 2026 and 2053 included in the Form 8-K exhibit. However, it incorrectly states the interest rates for the 2030 and 2033 notes as 3.450% and 3.700%, respectively, whereas the document chunk lists them as 4.150% and 4.300%. The answer otherwise covers all relevant notes and their rates mentioned. It is clearly presented with a helpful summary table but misses providing the exact interest rates for all notes from the source."
