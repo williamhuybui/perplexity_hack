@@ -4,16 +4,16 @@ from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.vectorstores import FAISS
 from langchain_community.chat_models import ChatPerplexity
 from langchain.chains import RetrievalQA
-from langchain.prompts import PromptTemplate
 from langchain.retrievers import MultiQueryRetriever
 from langchain_community.llms import Ollama
+import os
 
 #Loader
 loader = PyMuPDFLoader("data\Huy_Bui_Resume.pdf")
 documents = loader.load()
 
 #Split
-text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+text_splitter = RecursiveCharacterTextSplitter(chunk_size=5000, chunk_overlap=500)
 chunks = text_splitter.split_documents(documents)
 
 #Embbedding
