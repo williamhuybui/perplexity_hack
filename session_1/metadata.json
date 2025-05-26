@@ -1,0 +1,90 @@
+[
+  {
+    "file_name": "2024-oracle-annual-report-10K.pdf",
+    "format_name": "2024-oracle-annual-report-10K",
+    "file_path": "data/2024-oracle-annual-report-10K.pdf",
+    "chunk_count": 217,
+    "total_word_count": 62640,
+    "summary": "The report is about Oracle Corporation and covers the fiscal year 2024, which ended on May 31, 2024."
+  },
+  {
+    "file_name": "Huy_Bui_Resume.pdf",
+    "format_name": "Huy_Bui_Resume",
+    "file_path": "data/Huy_Bui_Resume.pdf",
+    "chunk_count": 1,
+    "total_word_count": 359,
+    "summary": "The report does not appear to be about a specific company's financial performance but rather provides a professional profile of Huy Bui, a data scientist. It does not cover a specific year but includes experiences from 2017 to the present."
+  },
+  {
+    "file_name": "2024-cisco-full-annual-report.pdf",
+    "format_name": "2024-cisco-full-annual-report",
+    "file_path": "data/2024-cisco-full-annual-report.pdf",
+    "chunk_count": 175,
+    "total_word_count": 71074,
+    "summary": "The report is about Cisco Systems, Inc. and covers the fiscal year 2024."
+  },
+  {
+    "file_name": "2024-netflix-annual-report-10K.pdf",
+    "format_name": "2024-netflix-annual-report-10K",
+    "file_path": "data/2024-netflix-annual-report-10K.pdf",
+    "chunk_count": 105,
+    "total_word_count": 36885,
+    "summary": "The report is about Netflix, Inc. and covers the fiscal year ended December 31, 2024."
+  },
+  {
+    "file_name": "2024-amazon-annual-report-10K.pdf",
+    "format_name": "2024-amazon-annual-report-10K",
+    "file_path": "data/2024-amazon-annual-report-10K.pdf",
+    "chunk_count": 112,
+    "total_word_count": 47161,
+    "summary": "This report is about Amazon and covers the company\u2019s financial and operational results for the year 2024, highlighting significant growth in revenue, operating income, and key business segments[1][2][5]."
+  },
+  {
+    "file_name": "2024-meta-full-annual-report.pdf",
+    "format_name": "2024-meta-full-annual-report",
+    "file_path": "data/2024-meta-full-annual-report.pdf",
+    "chunk_count": 11,
+    "total_word_count": 3107,
+    "summary": "This report is about Meta Platforms, Inc. and covers the company\u2019s financial results for the fourth quarter and full year ended December 31, 2024, including revenue, expenses, net income, and operational highlights[1][4][5]."
+  },
+  {
+    "file_name": "2024-nvidia-annual-report-10K.pdf",
+    "format_name": "2024-nvidia-annual-report-10K",
+    "file_path": "data/2024-nvidia-annual-report-10K.pdf",
+    "chunk_count": 224,
+    "total_word_count": 93680,
+    "summary": "This report is about NVIDIA Corporation and covers the fiscal year 2024, highlighting its leadership in accelerated computing and generative AI as key drivers of industry transformation and sustainability[1][4]."
+  },
+  {
+    "file_name": "2024-google-annual-report-10K.pdf",
+    "format_name": "2024-google-annual-report-10K",
+    "file_path": "data/2024-google-annual-report-10K.pdf",
+    "chunk_count": 123,
+    "total_word_count": 51919,
+    "summary": "The report is about Alphabet Inc. and covers the fiscal year ended December 31, 2024."
+  },
+  {
+    "file_name": "2024-reddit-annual-report-10K.pdf",
+    "format_name": "2024-reddit-annual-report-10K",
+    "file_path": "data/2024-reddit-annual-report-10K.pdf",
+    "chunk_count": 146,
+    "total_word_count": 67567,
+    "summary": "This report is about Reddit, Inc., a Delaware corporation headquartered in San Francisco, and covers the company\u2019s financial and operational results for the fiscal year ended December 31, 2024[1]."
+  },
+  {
+    "file_name": "2024-tsla-annual-report-10K.pdf",
+    "format_name": "2024-tsla-annual-report-10K",
+    "file_path": "data/2024-tsla-annual-report-10K.pdf",
+    "chunk_count": 179,
+    "total_word_count": 51096,
+    "summary": "The report is the Annual Report on Form 10-K for Tesla, Inc., covering the fiscal year ended December 31, 2024."
+  },
+  {
+    "file_name": "2024-apple-annual-report-10K.pdf",
+    "format_name": "2024-apple-annual-report-10K",
+    "file_path": "data/2024-apple-annual-report-10K.pdf",
+    "chunk_count": 134,
+    "total_word_count": 57814,
+    "summary": "The report is about Apple Inc. and covers the fiscal year ended September 28, 2024."
+  }
+]
