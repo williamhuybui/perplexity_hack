@@ -1,0 +1,62 @@
+question,answer,sources,top_k_chunks
+"How did Amazon's investment strategy in convertible notes with Anthropic, PBC during fiscal year 2024 affect its financial statements?","I don't know based on the provided document. The context does not provide specific details about how Amazon's investment strategy in convertible notes with Anthropic, PBC during fiscal year 2024 affected its financial statements. However, convertible notes are typically recorded as long-term liabilities that may convert to equity, which can impact a company's balance sheet and potentially its equity if converted[2]. For detailed financial impacts, one would need to review Amazon's financial statements and notes related to these investments.",2024-amazon-annual-report-10K.pdf,82; 34; 41
+"How does Apple Inc. allocate revenue for product-related bundled services, such as iCloud, Siri, and Maps, for the fiscal year ended September 28, 2024?","I don't know based on the provided document. The available information does not specify how Apple Inc. allocates revenue for product-related bundled services such as iCloud, Siri, and Maps for the fiscal year ended September 28, 2024[1][4].",2024-apple-annual-report-10K.pdf,113; 124; 120; 125
+"How does Cisco define and account for ""Other Purchase Obligations"" in its fiscal year 2024 report, and what types of commitments and liabilities are excluded from this category?","I don't know based on the provided document. The context does not provide specific information about how Cisco defines and accounts for ""Other Purchase Obligations"" in its fiscal year 2024 report or what types of commitments and liabilities are excluded from this category. For detailed information, you would need to refer to the specific sections of Cisco's financial statements that discuss contractual obligations or purchase commitments.",2024-cisco-full-annual-report.pdf,214; 293; 280; 287
+"What are the key elements and progress of Alphabet Inc.'s environmental sustainability strategy as outlined in its 2024 Environmental Report, including its goals for net-zero emissions, carbon-free energy usage, and carbon removal efforts?","Alphabet Inc.'s environmental sustainability strategy, as outlined in various reports and statements, includes several key elements and goals:
+
+1. **Net-Zero Emissions Goal**: Alphabet aims to achieve net-zero greenhouse gas (GHG) emissions across all operations and its value chain by 2030. This involves reducing 50% of its combined Scope 1, Scope 2 (market-based), and Scope 3 absolute emissions compared to a 2019 base year[2][5].
+
+2. **Carbon-Free Energy (CFE)**: The company has set a goal to run on 24/7 carbon-free energy on every grid where it operates by 2030. This is a critical component of reducing Scope 2 emissions through the procurement of renewable energy sources[2][5].
+
+3. **Carbon Removal Efforts**: Alphabet plans to invest in both nature-based and technology-based carbon removal solutions to neutralize its remaining emissions. This strategy is part of its broader approach to achieving net-zero emissions[2][5].
+
+4. **Progress and Challenges**: While Alphabet has made significant strides in renewable energy procurement and carbon reduction strategies, it faces ongoing challenges such as increased energy consumption from data centers and supply chain emissions. The company continues to evolve its approach, navigating uncertainties and developing new technologies to meet its ambitious goals[5].
+
+The specific details of the 2024 Environmental Report are not fully outlined in the provided search results, but these elements represent the core of Alphabet's environmental sustainability strategy.",2024-nvidia-annual-report-10K.pdf; 2024-google-annual-report-10K.pdf; 2024-cisco-full-annual-report.pdf,227; 352; 225; 590
+"What is the expected growth driver for Meta Platforms, Inc.'s expenses in the financial year 2025, aside from employee compensation?","The expected growth driver for Meta Platforms, Inc.'s expenses in the financial year 2025, aside from employee compensation, is primarily driven by capital expenditures. Specifically, Meta has raised its capital expenditure forecast for 2025 to a range of $64 billion to $72 billion, focusing on investments in servers, data centers, and network infrastructure. These investments are aimed at supporting core business needs such as advertising, recommendation systems, and generative AI initiatives[3][4][5]. 
+
+While the context does not explicitly mention other specific growth drivers, the emphasis on infrastructure and AI investments highlights the strategic importance of these areas for Meta's financial growth in 2025.",2024-meta-full-annual-report.pdf,449; 447; 446; 442
+"How did Netflix, Inc. calculate comprehensive income for the fiscal year ended December 31, 2024, and what were the primary components of other comprehensive income for that year?","To calculate comprehensive income for the fiscal year ended December 31, 2024, Netflix, Inc. combined net income with other comprehensive income (loss). The net income for the fiscal year was $8,711,631, and the other comprehensive income was $586,107. Therefore, the comprehensive income for the fiscal year ended December 31, 2024, was $9,297,738.
+
+The primary components of other comprehensive income for Netflix, Inc. in 2024 included:
+- **Foreign currency translation adjustments**: A loss of $247,949.
+- **Change in unrealized gains on available-for-sale securities**: A gain of $2,511.
+- **Cash flow hedges**: Net unrealized gains of $921,227, with a reclassification of net gains included in net income of $96,795, resulting in a net change of $824,432.
+- **Fair value hedges**: Net unrealized gains of $7,113.
+
+These components collectively contributed to the total other comprehensive income of $586,107 for the fiscal year ended December 31, 2024.",2024-netflix-annual-report-10K.pdf,492; 491; 494
+"What were NVIDIA Corporation's lobbying activities and expenditures in 2024, and how does the company manage and report its public policy advocacy and related government relations practices for that year?","Based on the provided context, there is no explicit information about NVIDIA Corporation’s lobbying activities, expenditures in 2024, or how the company manages and reports its public policy advocacy and related government relations practices for that year. However, external sources such as OpenSecrets report that NVIDIA Corp spent $640,000 on lobbying in 2024[2]. 
+
+If you require only information from the provided document, the answer is:
+
+**I don't know based on the provided document.**
+
+If you are open to information from external sources, here is a summary:
+
+- **Lobbying Expenditures in 2024:** NVIDIA Corp spent $640,000 on lobbying in 2024[2].
+- **Contributions in the 2024 Cycle:** NVIDIA Corp made contributions totaling $1,485,963 in the 2024 cycle[2].
+- **Public Policy Advocacy and Government Relations Practices:** The provided context does not detail how NVIDIA manages or reports these practices. However, companies like NVIDIA typically report lobbying activities through mandatory disclosures to government agencies and may discuss public policy engagement in their corporate social responsibility or annual reports.
+
+If you need a detailed breakdown of how NVIDIA specifically manages and reports its government relations, that information is not available in the provided context.",2024-nvidia-annual-report-10K.pdf,560; 620; 700; 663
+"What were the key financial highlights and achievements reported by Oracle Corporation for the fiscal year 2024, including revenue growth, cloud services performance, and significant sales contracts?","Oracle Corporation reported several key financial highlights and achievements for its fiscal year 2024:
+
+1. **Revenue Growth**: 
+   - Total revenues for fiscal year 2024 were up 6% in USD and constant currency, reaching $53.0 billion[1][2].
+   - Total quarterly revenues for Q4 were up 3% year-over-year in USD and up 4% in constant currency to $14.3 billion[1][2].
+
+2. **Cloud Services Performance**:
+   - Cloud services and license support revenues were up 12% in USD and up 11% in constant currency to $39.4 billion for the full year[2].
+   - In Q4, cloud services and license support revenues increased by 9% in USD and by 10% in constant currency to $10.2 billion[1][2].
+
+3. **Significant Sales Contracts**:
+   - Oracle signed the largest sales contracts in its history during Q3 and Q4, driven by demand for training AI large language models (LLMs) in Oracle Cloud[5].
+   - This led to a 44% increase in remaining performance obligations (RPO) to $98 billion[5].
+   - License wins for fiscal year 2024 reached $137 million, marking a 44% growth over the previous fiscal year[4].
+
+These achievements highlight Oracle's strong growth in cloud services and significant advancements in AI-related sales contracts.",2024-nvidia-annual-report-10K.pdf; 2024-oracle-annual-report-10K.pdf,831; 728; 663; 560; 868
+"What were the main components and trends in Reddit, Inc.'s research and development expenses for the fiscal year ended December 31, 2024?","Based on the provided search results, the main components of Reddit, Inc.'s research and development expenses are not explicitly detailed. However, it is known from other sources that such expenses can include **professional services and hosting costs associated with internal research and development**[5].
+
+As for trends, Reddit's research and development expenses for the fiscal year ended December 31, 2024, were $935 million, which represents a **113.34% increase** from 2023. This significant rise indicates a strong focus on investing in product improvements and innovations, possibly including AI technologies[1][5].
+
+Therefore, while the specific components are not detailed in the search results, the trend clearly shows a substantial increase in R&D investment.",2024-google-annual-report-10K.pdf; 2024-reddit-annual-report-10K.pdf; 2024-netflix-annual-report-10K.pdf,981; 382; 980; 984; 475
+"In 2024, how did Tesla, Inc.'s expansion of its used vehicle sales and public charging network contribute to the company's overall performance?","I don't know based on the provided document. The context does not provide specific information on how Tesla's expansion of its used vehicle sales and public charging network contributed to the company's overall performance in 2024. However, it does mention that Tesla's Supercharger network saw significant growth, with a 23% year-over-year increase in the number of Supercharger stalls during Q3 2024, and delivered 1.4 TWh of energy during that quarter[3][4]. Additionally, Tesla's Supercharger network continued to grow, with a 14% increase in the number of stations year over year[2]. But there is no direct link to how these expansions impacted the company's overall performance.",2024-tsla-annual-report-10K.pdf,1098; 1027; 1093; 1070
