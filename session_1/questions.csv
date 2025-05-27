@@ -1,0 +1,546 @@
+file_name,question,format_name,file_path,summary,chunk,chunk_id
+2024-amazon-annual-report-10K.pdf,"Based on the provided chunk and context (Amazon, year 2024), here is a suitable question:
+
+**How many physical stores did Amazon operate in North America and internationally as of December 31, 2024?**",2024-amazon-annual-report-10K,data\2024-amazon-annual-report-10K.pdf,The report is about Amazon and covers the year 2024.,"Item 2.
+Properties
+As of December 31, 2024, we operated the following facilities (in thousands):
+Description of Use
+Leased Square 
+Footage (1)
+Owned Square 
+Footage
+Location
+Office space
+29,551
+9,104
+North America
+Office space
+23,771
+1,802
+International
+Physical stores (2)
+23,975
+707
+North America
+Physical stores (2)
+222
+—
+International
+Fulfillment, data centers, and other
+448,168
+36,869
+North America
+Fulfillment, data centers, and other
+176,287
+18,958
+International
+Total
+701,974
+67,440
+ ___________________
+(1) For leased properties, represents the total leased space excluding sub-leased space.
+(2) This includes 618 North America and 27 International stores as of December 31, 2024. 
+Segment
+Leased Square 
+Footage (1)
+Owned Square 
+Footage (1)
+North America
+457,104
+20,741
+International
+166,673
+11,741
+AWS
+24,875
+24,052
+Total
+648,652
+56,534
+ ___________________
+(1) Segment amounts exclude corporate facilities. Shared facilities are allocated among the segments based on usage and 
+primarily relate to facilities that hold our technology infrastructure. See Item 8 of Part II, “Financial Statements and 
+Supplementary Data — Note 10 — Segment Information.”
+We own and lease our corporate headquarters in Washington’s Puget Sound region and Arlington, Virginia.
+Item 3.
+Legal Proceedings
+See Item 8 of Part II, “Financial Statements and Supplementary Data — Note 7 — Commitments and Contingencies — 
+Legal Proceedings.”
+Item 4.
+Mine Safety Disclosures
+Not applicable.
+18",37
+2024-apple-annual-report-10K.pdf,"What did Apple Inc.'s management conclude about the effectiveness of the company's disclosure controls and internal control over financial reporting as of the fiscal year ended September 28, 2024, according to their 2024 Form 10-K?",2024-apple-annual-report-10K,data\2024-apple-annual-report-10K.pdf,"The financial report is about Apple Inc. and covers the fiscal year ended September 28, 2024.","Item 9.    Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+None.
+Item 9A.    Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+Based on an evaluation under the supervision and with the participation of the Company’s management, the Company’s principal executive officer and principal
+financial officer have concluded that the Company’s disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act
+were effective as of September 28, 2024 to provide reasonable assurance that information required to be disclosed by the Company in reports that it files or
+submits under the Exchange Act is (i)  recorded, processed, summarized and reported within the time periods specified in the SEC rules and forms and
+(ii) accumulated and communicated to the Company’s management, including its principal executive officer and principal financial officer, as appropriate to allow
+timely decisions regarding required disclosure.
+Inherent Limitations over Internal Controls
+The Company’s internal control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial reporting and the
+preparation of financial statements for external purposes in accordance with GAAP. The Company’s internal control over financial reporting includes those
+policies and procedures that: 
+(i)
+pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the Company’s
+assets;
+(ii)
+provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with
+GAAP, and that the Company’s receipts and expenditures are being made only in accordance with authorizations of the Company’s management
+and directors; and
+(iii)
+provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the Company’s assets
+that could have a material effect on the financial statements.
+Management, including the Company’s Chief Executive Officer and Chief Financial Officer, does not expect that the Company’s internal controls will prevent or
+detect all errors and all fraud. A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that the
+objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of
+controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of internal controls can provide
+absolute assurance that all control issues and instances of fraud, if any, have been detected. Also, any evaluation of the effectiveness of controls in future
+periods are subject to the risk that those internal controls may become inadequate because of changes in business conditions, or that the degree of compliance
+with the policies or procedures may deteriorate.
+Management’s Annual Report on Internal Control over Financial Reporting
+The Company’s management is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Rule 13a-15(f)
+under the Exchange Act). Management conducted an assessment of the effectiveness of the Company’s internal control over financial reporting based on the
+criteria set forth in Internal Control – Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013
+framework). Based on the Company’s assessment, management has concluded that its internal control over financial reporting was effective as of
+September 28, 2024 to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements in accordance
+with GAAP. The Company’s independent registered public accounting firm, Ernst & Young LLP, has issued an audit report on the Company’s internal control over
+financial reporting, which appears in Part II, Item 8 of this Form 10-K.
+Changes in Internal Control over Financial Reporting
+There were no changes in the Company’s internal control over financial reporting during the fourth quarter of 2024, which were identified in connection with
+management’s evaluation required by paragraph (d) of Rules 13a-15 and 15d-15 under the Exchange Act, that have materially affected, or are reasonably likely
+to materially affect, the Company’s internal control over financial reporting.
+Apple Inc. | 2024 Form 10-K | 51",65
+2024-cisco-full-annual-report.pdf,What types of risks are associated with Cisco Systems' investments in privately held companies during fiscal year 2024?,2024-cisco-full-annual-report,data\2024-cisco-full-annual-report.pdf,"The report is the 2024 Annual Report for Cisco Systems, covering the fiscal year 2024.","results.”
+Investments in Privately Held Companies
+We make investments in privately held companies that develop technology or provide services that are complementary to our 
+products or that provide insights into emerging technologies that may become relevant to our businesses. The risks associated 
+with these investments are more fully discussed in “Item 1A. Risk Factors,” including the risk factor entitled “We are exposed 
+to fluctuations in the market values of our portfolio investments and in interest rates; impairment of our investments could harm 
+our earnings.”
+5",28
+2024-google-annual-report-10K.pdf,"What risks does Alphabet Inc. face in its international operations, particularly in terms of foreign exchange and regulatory challenges, as highlighted in its 2024 Annual Report?",2024-google-annual-report-10K,data\2024-google-annual-report-10K.pdf,"The report is the Annual Report on Form 10-K for Alphabet Inc. covering the fiscal year ended December 31, 2024.","Our international operations are significant to our revenues and net income, and we plan to continue to grow 
+internationally. International revenues accounted for approximately 51% of our consolidated revenues in 2024. In 
+addition to risks described elsewhere in this section, our international operations expose us to other risks, including the 
+following:
+•
+restrictions on foreign ownership and investments, and stringent foreign exchange controls that might prevent 
+us from repatriating cash earned in countries outside the U.S.;
+•
+sanctions, import and export controls, other market access barriers, political unrest, geopolitical tensions, 
+changes in regimes, or armed conflict (such as ongoing conflicts in the Middle East and Ukraine), any of which 
+may affect our business continuity, increase our operating costs, limit demand for our products and services, 
+limit our ability to source components or final products, or prevent or impede us from operating in certain 
+jurisdictions, complying with local laws, or offering products or services;
+•
+longer payment cycles in some countries, increased credit risk, and higher levels of payment fraud;
+•
+an evolving foreign policy landscape that could harm our revenues and could subject us to litigation, new 
+regulatory costs and challenges (including new customer requirements), uncertainty regarding regulatory 
+outcomes, and other liabilities under local laws that may not offer due process or clear legal precedent;
+•
+anti-corruption laws, such as the U.S. Foreign Corrupt Practices Act, and other local laws prohibiting certain 
+payments to government officials, violations of which could result in civil and criminal penalties; and
+•
+different employee/employer relationships; different labor laws, regulations, and labor practices; and other 
+challenges caused by distance, language, local expertise, and cultural differences, increasing the complexity 
+of doing business in multiple jurisdictions.
+Because we conduct business in currencies other than U.S. dollars but report our financial results in U.S. dollars, 
+we have faced, and will continue to face, exposure to fluctuations in foreign currency exchange rates. Although we 
+hedge a portion of our international currency exposure, significant fluctuations in exchange rates between the U.S. 
+dollar and foreign currencies have in the past and may in the future adversely affect our revenues and earnings. 
+Hedging programs are also inherently risky and could expose us to additional risks that could harm our financial 
+condition and operating results. 
+We are exposed to fluctuations in the fair values of our investments and, in some instances, our financial 
+statements incorporate inherently subjective valuation methodologies. 
+The fair value of our debt and equity investments may in the future be, and certain investments have been in the 
+past, negatively affected by liquidity, credit deterioration or losses, performance and financial results of the underlying 
+entities, foreign exchange rates, changes in interest rates, the effect of new or changing regulations, the stock market 
+in general, or other factors. 
+We measure certain of our non-marketable equity and debt securities, certain other instruments including stock-
+based compensation awards settled in the stock of Other Bet companies, and certain assets and liabilities acquired in 
+a business combination, at fair value on a nonrecurring basis, which is inherently subjective and requires management 
+judgment and estimation. All gains and losses on non-marketable equity securities are recognized in OI&E, which 
+increases the volatility of our OI&E. The unrealized gains and losses or impairments we record from fair value 
+remeasurements in any particular period may differ significantly from the gains and losses we ultimately realize on 
+such investments.
+As a result of these factors, the value of our investments could decline, which could harm our financial condition 
+and operating results. 
+Risks Related to our Industry 
+People access our products and services through a variety of platforms and devices that continue to 
+evolve with the advancement of technology and user preferences. If manufacturers and users do not widely 
+adopt versions of our products and services developed for these interfaces, our business could be harmed. 
+People access our products and services through a growing variety of devices such as desktop computers, 
+phones, laptops and tablets, video game consoles, voice-activated speakers, wearables (including virtual reality and 
+augmented reality devices), automobiles, and television-streaming devices. Our products and services may be less 
+popular on some interfaces. Each manufacturer or distributor may establish unique technical standards for its devices, 
+and our products and services may not be available or may only be available with limited functionality for our users or",23
+2024-meta-full-annual-report.pdf,"What were the key financial results reported by Meta Platforms, Inc. for the fourth quarter and full year ended December 31, 2024, including revenue growth, net income, and operating metrics?",2024-meta-full-annual-report,data\2024-meta-full-annual-report.pdf,"The report is about Meta Platforms, Inc. and covers the financial results for the fourth quarter and full year ended December 31, 2024.","Reconciliation of GAAP to Non-GAAP Results
+(In millions, except percentages)
+(Unaudited)
+Three Months Ended 
+December 31,
+Twelve Months Ended 
+December 31,
+2024
+2023
+2024
+2023
+GAAP revenue
+$ 48,385 
+$ 
+40,111 $ 164,501 
+$ 
+134,902 
+Foreign exchange effect on 2024 revenue using 2023 rates
+ 
+65 
+ 
+874 
+Revenue excluding foreign exchange effect
+$ 48,450 
+$ 165,375 
+GAAP revenue year-over-year change %
+ 21 %
+ 22 %
+Revenue excluding foreign exchange effect year-over-year change 
+%
+ 21 %
+ 23 %
+GAAP advertising revenue
+$ 46,783 
+$ 
+38,706 $ 160,633 
+$ 
+131,948 
+Foreign exchange effect on 2024 advertising revenue using 2023 
+rates
+ 
+81 
+ 
+880 
+Advertising revenue excluding foreign exchange effect
+$ 46,864 
+$ 161,513 
+GAAP advertising revenue year-over-year change %
+ 21 %
+ 22 %
+Advertising revenue excluding foreign exchange effect year-over-
+year change %
+ 21 %
+ 22 %
+Net cash provided by operating activities
+$ 27,988 
+$ 
+19,404 $ 91,328 
+$ 
+71,113 
+Purchases of property and equipment
+ (14,425) 
+ 
+(7,592)  (37,256) 
+ 
+(27,045) 
+Principal payments on finance leases
+ 
+(411) 
+ 
+(307)  
+(1,969) 
+ 
+(1,058) 
+Free cash flow
+$ 13,152 
+$ 
+11,505 $ 52,103 
+$ 
+43,010 
+10",10
+2024-netflix-annual-report-10K.pdf,"What are the key regulatory and operational challenges Netflix, Inc. identified for its international expansion in the fiscal year ended December 31, 2024, and how might these impact its business strategy and financial results?",2024-netflix-annual-report-10K,data\2024-netflix-annual-report-10K.pdf,"The report is about Netflix, Inc. and covers the fiscal year ended December 31, 2024.","Table of Contents
+•
+censorship requirements that cause us to remove or edit popular content, leading to consumer disappointment, brand tarnishment or dissatisfaction
+with our service;
+•
+low usage and/or penetration of internet-connected consumer electronic devices;
+•
+different and more stringent user protection, data protection, privacy and other laws, including data localization and/or restrictions on data export, and
+local ownership requirements;
+•
+availability of reliable broadband connectivity and wide area networks in targeted areas for expansion;
+•
+differing laws and consumer understanding/attitudes regarding the illegality of piracy;
+•
+negative impacts from trade disputes; and
+•
+implementation of regulations designed to stimulate the local production of film and TV series in order to promote and preserve local culture and
+economic activity, including local content quotas, investment obligations, and levies to support local film funds. For example, the EU revised its
+Audio Visual Media Services Directive in 2018 to require that European works comprise at least thirty percent (30%) of media service providers’
+catalogs, and to require prominence of those works, and certain EU Member States have imposed additional investment obligations and levies.
+These and other factors may cause us to adjust our business plans, including expanding or ceasing certain operations in certain countries, and the
+execution of our strategies. Our failure to manage any of these risks successfully could harm our international operations and our overall business, and results
+of our operations.
+We are subject to taxation related risks in multiple jurisdictions.
+We are a U.S.-based multinational company subject to tax in multiple U.S. and foreign tax jurisdictions. Significant judgment is required in determining
+our global provision for income taxes, deferred taxes and other tax liabilities and receivables, and in evaluating our tax positions and other tax attributes on a
+worldwide basis. We are subject to the periodic examination of our domestic and foreign tax returns by the Internal Revenue Service, state, local, and foreign
+tax authorities, some of whom are challenging our tax positions. We regularly assess the likelihood of adverse outcomes from these examinations in
+determining the adequacy of our provision for income taxes and other tax liabilities. We consider many factors when evaluating and estimating our tax
+positions and tax benefits, which may require periodic adjustments and may not accurately forecast actual tax audit outcomes. If the ultimate determination of
+income and other tax liabilities differ from the amounts recorded or accrued, our business, financial condition or results of operations may be adversely
+impacted.
+Tax laws are regularly being re-examined and evaluated globally. New laws and interpretations of the law are taken into account for financial statement
+purposes in the quarter or year that they become applicable. Tax authorities are increasingly scrutinizing the tax positions of companies and we have tax audits
+pending in several jurisdictions. The U.S. federal and state governments, countries in the EU, as well as a number of other countries and organizations such as
+the Organization for Economic Cooperation and Development, are actively considering changes to existing tax laws that, if enacted, could increase our tax
+obligations in jurisdictions where we do business. If U.S. or other tax authorities change applicable tax laws or successfully challenge how or where our profits
+are currently recognized, our overall taxes could increase, and our business, financial condition or results of operations may be adversely impacted.
+Risks Related to Human Resources
+We may lose key employees or may be unable to hire qualified employees, and the failure to maintain and improve our company culture may
+adversely affect our business.
+We rely on the continued service of our senior management, including our Co-Chief Executive Officers, Ted Sarandos and Greg Peters, members of our
+executive team and other key employees. In our industry, there is substantial and continuous competition for highly-skilled business, product development,
+technical, creative and other personnel. If we experience high executive turnover, fail to adapt our business practices to industry expectations, fail to maintain a
+positive reputation, fail to implement succession plans for key employees, encounter difficulties associated with the transition of members of our management
+team, are not successful in recruiting new personnel or in retaining and motivating existing personnel, in instilling our culture in new employees, or
+maintaining and improving our culture as we grow, our operations may be disrupted, which could adversely affect our results of operations.
+Labor disputes may have an adverse effect on the Company’s business.",26
+2024-nvidia-annual-report-10K.pdf,"How was the total target compensation determined for NVIDIA Corporation’s named executive officers in Fiscal 2024, and what role did at-risk, performance-based equity awards play in the compensation program according to the Compensation Committee?",2024-nvidia-annual-report-10K,data\2024-nvidia-annual-report-10K.pdf,The report is about NVIDIA Corporation and covers the fiscal year 2024.,"Total Target Compensation Approach
+In evaluating Fiscal 2024 compensation, our CC reviewed each NEO’s total target pay opportunity and distribution across 
+different pay elements.  Our CC compared Mr. Huang’s base salary, target variable cash opportunity, target total cash 
+opportunity, target equity opportunity, and total target pay opportunity against chief executives of our peer companies.  
+For our other NEOs, their respective total target pay was reviewed by Mr. Huang against similarly situated executives of 
+our peer companies, where available.  This market reference, along with his evaluation of internal pay equity, individual 
+performance, level of unvested equity and increasing complexity of our executives’ roles, informed Mr. Huang’s 
+recommendations of the other NEOs’ compensation to the CC.  The CC also considered the factors discussed above in 
+Factors Used in Determining Executive Compensation and the CC’s compensation objectives for Fiscal 2024.  Our CC did 
+not use a single formula or assign a specific weight to any one factor in determining each NEO’s target pay.  Instead, our 
+CC used its business judgment and experience to set total target compensation, mix of cash and equity, and fixed and at-
+risk pay opportunities for each NEO to achieve our program’s objectives.  When the CC set each element of pay for an 
+NEO, it considered the context of the levels of the other pay elements, and the resulting total target pay for such NEO.  
+The CC established amounts and a structure that it believed would allow our NEOs to realize above-market value from 
+equity awards and variable cash incentives only upon exceptional corporate performance.  
+Continued Emphasis on Long-Term, At-Risk, Performance-Based Equity Awards
+For Fiscal 2024, the CC decided that the largest portion of NEOs’ total target pay would remain in the form of at-risk 
+equity with performance-based vesting.  The CC believes an emphasis on long-term, at-risk opportunities drives results 
+and increases NEO and stockholder alignment, while providing sufficient annual cash compensation to be competitive 
+and retain our NEOs.  The PSUs and RSUs provide long-term incentives and retention benefits because our NEOs must 
+achieve, for PSUs, the predetermined performance goals and, for both PSUs and RSUs, must remain with us for a longer 
+term (3 years for MY PSUs and 4 years for SY PSUs and RSUs) to fully vest in the awards.
+The CC concluded that, given Mr. Huang’s position as CEO, 100% of his equity grants should be at-risk and performance-
+based, tightly aligning his interests with stockholders.  Consistent with its practice in prior years, the CC granted Mr. 
+Huang’s target equity opportunity 100% in the form of SY PSUs (which value is aligned with our annual corporate financial 
+performance) and MY PSUs (which value is aligned with our 3-year relative shareholder return), evenly split between both 
+forms of PSUs to emphasize both shorter-term and longer-term performance.  For our other NEOs, the CC provided 40% 
+of the target equity opportunity in the form of RSUs and 60% of the target equity opportunity in the form of PSUs.  The 
+CC determined this mix appropriately balanced an emphasis on performance achievement while still providing a 
+meaningful amount of time-vesting RSUs to encourage retention.
+To motivate our NEOs to focus on operational efficiencies and providing value-added products, management 
+recommended, and the CC determined that it was appropriate, to provide our executives with an opportunity to earn 
+Additional SY PSUs in Fiscal 2024 if (i) Fiscal 2024 Non-GAAP Operating Income was achieved at or above Base 
+Compensation Plan and (ii) we achieved a Fiscal 2024 Non-GAAP Gross Margin goal, as further described below under 
+Performance Metrics and Goals for Executive Compensation.
+47",75
+2024-oracle-annual-report-10K.pdf,"What are the key revenue sources and recent accounting estimate changes reported by Oracle Corporation for the fiscal year ended May 31, 2024, as detailed in their financial statements?",2024-oracle-annual-report-10K,data\2024-oracle-annual-report-10K.pdf,"The report is about Oracle Corporation and covers the fiscal year ended May 31, 2024.","Table of Contents
+Index to Financial Statements
+ 
+dictated by GAAP and does not require management’s judgment in its application. There are also areas in which management’s 
+judgment in selecting among available alternatives would not produce a materially different result.
+During the first quarter of fiscal 2023, we completed an assessment of the useful lives of our servers and increased the estimate of the 
+useful lives from four years to five years effective at the beginning of fiscal 2023. Based on the carrying value of our servers as of May 
+31, 2022, this change in accounting estimate decreased our total operating expenses by $434 million during fiscal 2023.
+Revenue Recognition 
+Our sources of revenues include:
+•
+cloud and license revenues, which include: cloud services revenues; cloud license and on-premise license revenues; and 
+license support revenues, which typically represent perpetual software licenses purchased by customers for use in both 
+cloud and on-premise IT environments; 
+•
+hardware revenues, which include the sale of hardware products, including Oracle Engineered Systems, servers, and storage 
+products, and industry-specific hardware; and hardware support revenues; and 
+•
+services revenues, which are earned from providing cloud-, license- and hardware-related services including consulting and 
+advanced customer services.
+Cloud services revenues include revenues from Oracle Cloud Services offerings, which deliver applications and infrastructure 
+technologies via cloud-based deployment models that we develop functionality for, provide unspecified updates and enhancements 
+for, deploy, host, manage, upgrade and support and that customers access by entering into a subscription agreement with us for a 
+stated period.
+Cloud license and on-premise license revenues primarily represent amounts earned from granting customers perpetual licenses to use 
+our database, middleware, application and industry-specific software products, which our customers use for cloud-based, on-premise 
+and other IT environments. The vast majority of our cloud license and on-premise license arrangements include license support 
+contracts, which are entered into at the customer’s option. 
+License support revenues are typically generated through the sale of license support contracts related to cloud license and on-
+premise licenses purchased by our customers at their option. License support contracts provide customers with rights to unspecified 
+software product upgrades, maintenance releases and patches released during the term of the support period and include internet 
+access to technical content, as well as internet and telephone access to technical support personnel. License support contracts are 
+generally priced as a percentage of the net cloud license and on-premise license fees. Substantially all of our customers elect to 
+purchase and renew their license support contracts annually.
+Revenues from the sale of hardware products represent amounts earned primarily from the sale of our Oracle Engineered Systems, 
+computer servers, storage, and industry-specific hardware. Our hardware support offerings generally provide customers with software 
+updates for the software components that are essential to the functionality of the hardware products purchased and can also include 
+product repairs, maintenance services and technical support services. Hardware support contracts are generally priced as a 
+percentage of the net hardware products fees.
+Our services are offered to customers as standalone arrangements or as a part of arrangements to customers buying other products 
+and services. Our consulting services are designed to help our customers to, among others, deploy, architect, integrate, upgrade and 
+secure their investments in Oracle applications and infrastructure technologies. Our advanced customer services are designed to 
+provide supplemental support services, performance services and higher availability for Oracle products and services. 
+71
+5/25/25, 1:44 PM
+10-K
+https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/orcl-20240531.htm
+125/194",142
+2024-reddit-annual-report-10K.pdf,"What specific procedures did the auditors perform to address the critical audit matter related to advertising revenue for Reddit, Inc. in the fiscal year ended December 31, 2024?",2024-reddit-annual-report-10K,data\2024-reddit-annual-report-10K.pdf,"This report is about Reddit, Inc., a Delaware corporation headquartered in San Francisco, and covers the fiscal year ended December 31, 2024[2].","REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Stockholders and the Board of Directors 
+Reddit, Inc.:
+Opinion on the Consolidated Financial Statements
+We have audited the accompanying consolidated balance sheets of Reddit, Inc. and subsidiaries (the Company) as of December 
+31, 2024 and 2023, the related consolidated statements of operations, comprehensive income (loss), convertible preferred stock 
+and stockholders’ equity (deficit), and cash flows for each of the years in the three-year period ended December 31, 2024, and 
+the related notes (collectively, the consolidated financial statements). In our opinion, the consolidated financial statements 
+present fairly, in all material respects, the financial position of the Company as of December 31, 2024 and 2023, and the results 
+of its operations and its cash flows for each of the years in the three-year period ended December 31, 2024, in conformity with 
+U.S. generally accepted accounting principles.
+Basis for Opinion
+These consolidated financial statements are the responsibility of the Company’s management. Our responsibility is to express 
+an opinion on these consolidated financial statements based on our audits. We are a public accounting firm registered with the 
+Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the 
+Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and 
+Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the 
+audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, 
+whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal 
+control over financial reporting. As part of our audits, we are required to obtain an understanding of internal control over 
+financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over 
+financial reporting. Accordingly, we express no such opinion.
+Our audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, 
+whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a 
+test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included 
+evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall 
+presentation of the consolidated financial statements. We believe that our audits provide a reasonable basis for our opinion.
+Critical Audit Matter
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial 
+statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or 
+disclosures that are material to the consolidated financial statements and (2) involved our especially challenging, subjective, or 
+complex judgments. The communication of a critical audit matter does not alter in any way our opinion on the consolidated 
+financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate 
+opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+Evaluation of the delivery quantity of ad impressions 
+As discussed in Note 2 to the consolidated financial statements, the Company generated $1,300 million of revenue for the 
+year ended December 31, 2024. The Company generates the majority of its revenues by delivering ads on the Company’s 
+website and mobile applications. Revenue is recognized after transferring control of the promised goods or services to 
+customers, which occurs when a user clicks on an ad contracted on a cost per click basis, views an ad contracted on a cost 
+per thousand impressions basis, views a video ad contracted on a cost per view basis, or on a fixed fee basis, based on ad 
+delivery over the service period.
+We identified the evaluation of the sufficiency of audit evidence over advertising revenue as a critical audit matter. 
+Complex auditor judgment was required in evaluating the sufficiency of audit evidence over advertising revenue due to the 
+proprietary IT system used to capture and track ad delivery used in revenue recognition. Specialized skills and knowledge 
+were needed to test the IT system used for the processing and recording of advertising revenue.
+The following are the primary procedures we performed to address this critical audit matter. We applied auditor judgment",103
+2024-tsla-annual-report-10K.pdf,"Based on Tesla, Inc.'s Annual Report on Form 10-K for the fiscal year ended December 31, 2024, how did Tesla's inventory composition and valuation change compared to December 31, 2023, and what were the recorded inventory write-downs for the years ended December 31, 2024, 2023, and 2022?",2024-tsla-annual-report-10K,data\2024-tsla-annual-report-10K.pdf,"The report is the Annual Report on Form 10-K for Tesla, Inc., covering the fiscal year ended December 31, 2024.","December 31, 2023
+ 
+Adjusted Cost
+Gross
+Unrealized
+Gains
+Gross
+Unrealized
+Losses
+Fair Value
+Cash and Cash
+Equivalents
+Short-Term
+Investments
+Cash
+$
+15,903  $
+—  $
+—  $
+15,903  $
+15,903  $
+— 
+Certificates of deposit and time deposits
+6,995 
+1 
+— 
+6,996 
+— 
+6,996 
+U.S. government securities
+5,136 
+1 
+(1)
+5,136 
+277 
+4,859 
+Corporate debt securities
+485 
+1 
+(6)
+480 
+— 
+480 
+Commercial paper
+470 
+— 
+— 
+470 
+109 
+361 
+Money market funds
+109 
+— 
+— 
+109 
+109 
+— 
+Total cash, cash equivalents and short-term
+investments
+$
+29,098  $
+3  $
+(7) $
+29,094  $
+16,398  $
+12,696 
+As of December 31, 2024, the vast majority of our short-term investments had contractual maturity dates within one year.
+Disclosure of Fair Values
+Our financial instruments that are not re-measured at fair value include accounts receivable, financing receivables, other
+receivables, accounts payable, accrued liabilities, customer deposits and debt. The carrying values of these financial instruments
+materially approximate their fair values.
+Note 6 – Inventory
+Our inventory consisted of the following (in millions):
+ 
+December 31,
+2024
+December 31,
+2023
+Raw materials
+$
+5,242  $
+5,390 
+Work in process
+1,532 
+2,016 
+Finished goods (1)
+3,940 
+5,049 
+Service parts
+1,303 
+1,171 
+Total
+$
+12,017  $
+13,626 
+(1)
+Finished goods inventory includes products-in-transit to fulfill customer orders, new vehicles, used vehicles and energy products
+available for sale.
+We write-down inventory for any excess or obsolete inventory or when we believe that the net realizable value of inventory is
+less than the carrying value. During the years ended December 31, 2024, 2023 and 2022, we recorded write-downs of $190 million,
+$233 million and $144 million, respectively, in Cost of revenues in the consolidated statements of operations.
+71
+5/25/25, 1:46 PM
+tsla-20241231
+https://www.sec.gov/Archives/edgar/data/1318605/000162828025003063/tsla-20241231.htm
+107/157",126
