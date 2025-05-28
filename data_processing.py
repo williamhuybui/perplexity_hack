@@ -24,7 +24,7 @@ def pdf_load_and_split(pdf_path, cfg):
 
 
 # Loop through PDFs
-def data_processing(api_key, cfg):
+def data_processing(api_key, cfg, verbose=True):
     """ 
     Process PDF files in the input directory, extract summaries, and save metadata.
     This function performs the following steps:
@@ -71,12 +71,15 @@ def data_processing(api_key, cfg):
             # 4) Save chunks
             file_chunks_dir = os.path.join(cfg.chunks_dir, f"{format_name}.json")
             with open(file_chunks_dir, "w") as f:
-                print(f"Saving chunks to {file_chunks_dir}")
+                if verbose:
+                    print(f"Saving {len(chunks)} chunks to {file_chunks_dir}")
                 json.dump(chunks, f, indent=2)
 
             # Save metadata to file
             with open(cfg.metadata_file, "w") as f:
-                print(f"Saving metadata to {cfg.metadata_file}")
+                if verbose:
+                    print(f"Saving metadata to {cfg.metadata_file}")
                 json.dump(metadata, f, indent=2)
         else:
-            print(f"File '{file_name}' already processed. Skipping.")
+            if verbose:
+                print(f"File '{file_name}' already processed. Skipping.")

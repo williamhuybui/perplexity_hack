@@ -21,7 +21,7 @@ def load_questions(cfg) :
         return pd.DataFrame()
     
 
-def question_generator(cfg):
+def question_generator(cfg, verbose = True):
     """
     For each PDF in *metadata* pick `cfg.n_questions_per_file` random chunks,
     generate a question via `llm_generate_questions`, and return
@@ -36,11 +36,13 @@ def question_generator(cfg):
     metadata = load_metadata(cfg)
 
     if os.path.exists(cfg.question_file):
-        print(f"Questions file '{cfg.question_file}' already exists. Loading existing questions.")
+        if verbose:
+            print(f"Questions file '{cfg.question_file}' already exists. Loading existing questions.")
         return pd.read_csv(cfg.question_file)
 
     for i, file_name in enumerate(metadata):
-        print(f"Generating {cfg.n_questions_per_file} question for file: {file_name}. {i+1}/{len(metadata)}")
+        if verbose:
+            print(f"Generating {cfg.n_questions_per_file} question for file: {file_name}. {i+1}/{len(metadata)}")
         meta = metadata[file_name]
         format_name = meta["format_name"]
         file_path = meta["file_path"]
@@ -68,5 +70,6 @@ def question_generator(cfg):
             )
     df = pd.DataFrame.from_records(rows)
     df.to_csv(cfg.question_file, index=False)
-    print(f"Questions saved to {cfg.question_file}")
+    if verbose:
+        print(f"Questions saved to {cfg.question_file}")
     return df

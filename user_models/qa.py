@@ -9,7 +9,46 @@ from langchain.chains import RetrievalQA
 from langchain_community.chat_models import ChatPerplexity
 import os
 
-def create_vector_store(config):
+
+MODEL_1_CONFIG = {
+    "model_name": "model_1",
+    "model_type": "faiss",
+    
+    # Data paths
+    "pdf_folder": "./data",
+    "vector_store_path": "faiss_index_open",
+    "questions_file": "session_1/questions.csv",
+    "log_file": "qa_log_1.csv",
+    "final_output_file": "final_1.csv",
+    
+    # Text processing
+    "chunk_size": 5000,
+    "chunk_overlap": 500,
+    "text_splitter_type": "recursive",  # "recursive" or "token"
+    "document_loader": "pymupdf",  # "pymupdf" or "pypdf"
+    
+    # Embeddings
+    "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+    "embedding_type": "huggingface",
+    "embedding_device": "cpu",
+    "normalize_embeddings": False,
+    
+    # LLM settings
+    "llm_model": "sonar",
+    "pplx_api_key": "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",
+    "temperature": 0.2,
+    
+    # Retrieval settings
+    "retriever_k": 3,
+    "use_compression": False,
+    "use_custom_prompt": False,
+    
+    # Processing settings
+    "recreate_vector_store": False,
+    "max_retries": 3
+}
+
+def create_vector_store(config = MODEL_1_CONFIG):
     """Create vector store based on configuration"""
     
     # === Load all PDFs ===
@@ -76,7 +115,7 @@ def create_vector_store(config):
     print(f"Vector store created and saved to: {config['vector_store_path']}")
     return vector_store
 
-def load_vector_store(config):
+def load_vector_store(config = MODEL_1_CONFIG):
     """Load existing vector store based on configuration"""
     
     # Create embeddings (must match the ones used to create the store)
@@ -109,7 +148,7 @@ def load_vector_store(config):
     print(f"Vector store loaded from: {config['vector_store_path']}")
     return vector_store
 
-def create_unified_chain(config):
+def create_unified_chain(config = MODEL_1_CONFIG):
     """Create QA chain based on unified configuration"""
     
     # === Handle vector store ===
