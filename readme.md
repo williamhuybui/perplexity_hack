@@ -57,7 +57,6 @@ Real documents are far messier than any tutorial; most engineering time goes to 
 
 ## 📸 Project Screenshots
 
-You can upload images or charts from your project here to showcase:
 - General architecture
 
   ![image](https://github.com/user-attachments/assets/aca39ae0-f41e-4268-9357-95c6c7658b99)
