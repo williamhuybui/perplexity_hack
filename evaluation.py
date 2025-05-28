@@ -113,7 +113,7 @@ def radar_plot(df):
     # Extract scores and wrap the first value to close the loop
     # scores = df.loc[0, list(score_cols)].tolist()
 
-    score_cols=("factual_correctness_score", "completeness_score", "clarity_score", "overall_score")
+    score_cols=["factual_correctness_score", "completeness_score", "clarity_score", "overall_score"]
     df = df[score_cols].mean()
     scores = df[score_cols].tolist()
     scores += scores[:1]
