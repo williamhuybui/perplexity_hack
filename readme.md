@@ -4,7 +4,7 @@
 
 **Finance PDF RAG QA Evaluator** is a lightweight evaluation tool designed to assess the factual accuracy and reliability of Retrieval-Augmented Generation (RAG) models working with financial reports. Given a folder of PDFs, the system auto-generates finance-specific questions using Perplexity Sonar, passes them to your RAG model for answers, and then uses Sonar again to evaluate those answers for accuracy, completeness, and clarity.
 
-The result is a clear, actionable report—delivered in both CSV and interactive visual format—that pinpoints hallucinations and improvement areas in your RAG pipeline. Built using LangChain, PyMuPDF, and Plotly, the entire process runs locally in minutes, enabling fast iteration and trust evaluation at scale.
+The result is a clear, actionable report—delivered in both CSV and interactive visual formats—that pinpoints areas of hallucination and improvement in your RAG pipeline. Built using LangChain, PyMuPDF, and Plotly, the entire process runs locally in minutes, enabling fast iteration and trust evaluation at scale.
 
 ## Project Layout
 
