@@ -1,0 +1,1495 @@
+file_name,question,format_name,file_path,summary,chunk,chunk_id
+2024-amazon-annual-report-10K.pdf,"Based on the 2024 Amazon report discussing financial and operational performance and innovation culture:
+
+How does Amazon's approach to innovation, as described in the 2024 report, emphasize collaboration, customer focus, and a startup mentality to drive the company's strong financial growth and key business achievements throughout its segments in 2024?",2024-amazon-annual-report-10K,data\2024-amazon-annual-report-10K.pdf,"This report is about Amazon and covers the company’s financial and operational results for the year 2024, highlighting strong revenue growth, improved operating income, and key business achievements across its segments[1][2][4].","hard questions about which customers will use this capability, what they’ll like most, what they’ll be most
+disappointed with, why are we drawing the launch line where we are, why is it better than current alternatives,
+how should we think about pricing, what pricing dimensions we recommend, and why have we made the
+architectural decisions we have. The Press Release and FAQ are how we work backwards from customers, and
+how we push ourselves to ask questions customers would if they were in these meetings.
+Be together whenever possible. There are many paths that can lead to breakthrough innovation. Occasionally,
+a lone genius comes up with a brilliant idea, and everyone else simply executes it. While that can work, it’s
+not how we typically operate. Amazon invention is deeply collaborative. It starts with a seed of an idea, then
+a group of smart, mission-driven people refine, challenge, and build on it together. And, we’ve found that
+this process is far more effective in person than remote. Of course, you can invent with everybody remote (and
+some cultures seem to prefer that). However, in my experience, it doesn’t compare to being in the same
+room. The energy, the pace, the spontaneous brainstorming, the willingness for people to jump in, the way
+ideas evolve in real time, and the post-meeting iteration is much better when in the same room—and yields
+better outcomes for our customers and teams. With what’s happening in AI right now, and the likelihood
+that every customer experience we’ve ever known will be reinvented, there has never been a more important
+time, in my opinion, to optimize to invent well.
+Tolerating messy meetings. It’s hard to “schedule” innovation. You can’t book 60 minutes to invent Amazon
+Prime, or AWS, or Alexa+, or Fulfillment by Amazon, or Regionalization in our Fulfillment Network, or
+Project Kuiper. These inventions are borne out of somebody asking why we can’t change what’s possible for
+customers, and then they take on a life of their own, often meandering down multiple dead ends before
+getting to a final destination. This might bother some regimented folks. But, when we’re inventing, we accept
+the process being beautifully imperfect.
+Operate like a startup (in our case, the world’s largest startup). We strive to operate like the world’s largest
+startup. What does that mean?
+First, whatever we’re contemplating building has to be focused on solving a real customer problem or
+meaningfully improving a customer experience. Companies can get off track prioritizing technology because
+they’re excited about the technology. Great startups are on a mission to change what’s possible for customers.
+Second, we have a disproportionate need for builders. These are inventors. They’re people constantly
+dissecting customer experiences, even ones that seem pretty good today, and asking why they can’t be better.
+They’re divinely discontent (maybe annoyingly so for team members proud of what they’ve previously
+built), and never feel like the job is done.
+Third, we want owners. One of the strengths of Amazon over the first 30 years is that we’ve hired really
+smart, motivated, inventive, ambitious people who have been great owners. And, that means that our
+teammates are constantly asking themselves, “What would I do if this was my own money?” “What would I
+do if I started this company and I was the majority owner?” “Hey, I know I’ve only been asked to own a
+part of this project, but I’m not sure if the other parts are being driven well—should I stick my nose into this
+and make sure or just trust somebody’s got it?” Owners feel accountable. They care deeply about the
+quality and effectiveness of what they own, and view the company’s mission as their mission (we want
+missionaries, not mercenaries). That’s part of what our effort to increase the ratio of individual contributors
+versus managers is about. We want flatter organizations where our owners doing the work feel like they
+own the two-way door decisions (which are the vast majority), can move rapidly, and are fully accountable
+for solving the Whys of their customer experiences.
+Fourth, speed disproportionately matters for every business, in every industry, at all times. It’s a false binary
+to argue that you can move fast or deliver high standards. If you want to be fast, you can be fast, and still
+be high quality. We’ve done it for many years (though we can still be faster). Speed is a leadership decision.
+The leadership team has to believe it’s a priority, reinforce it constantly, organize and remove structural
+barriers, and build in modular ways that enable pace. But, speed does not happen unless the entire company
+and culture embrace it. We have this persistent feeling, throughout the company and in every business in
+which we operate, that there are closing windows all around us. We operate in fiercely competitive market
+segments, with highly talented, well-funded, ambitious companies at every turn. Customers are always looking",4
+2024-amazon-annual-report-10K.pdf,How might Amazon's business be affected in 2024 if its policies meant to prevent the sale of counterfeit goods are circumvented?,2024-amazon-annual-report-10K,data\2024-amazon-annual-report-10K.pdf,"This report is about Amazon and covers the company’s financial and operational results for the year 2024, highlighting strong revenue growth, improved operating income, and key business achievements across its segments[1][2][4].","never receive the products they ordered or when the products received are materially different from the sellers’ descriptions, 
+and to prevent sellers in our stores or through other stores from selling unlawful, counterfeit, pirated, or stolen goods, selling 
+goods in an unlawful or unethical manner, violating the proprietary rights of others, or otherwise violating our policies. When 
+these policies and processes are circumvented or fail to operate sufficiently, it can harm our business or damage our reputation 
+and we could face civil or criminal liability for unlawful activities by our sellers. Under our A-to-z Guarantee, we may 
+reimburse customers for payments up to certain limits in these situations, and as our third-party seller sales grow, the cost of 
+this program will increase and could negatively affect our operating results. 
+We Face Risks Related to Adequately Protecting Our Intellectual Property Rights and Being Accused of Infringing 
+Intellectual Property Rights of Third Parties
+We regard our trademarks, service marks, copyrights, patents, trade dress, trade secrets, proprietary technology, and 
+similar intellectual property as critical to our success, and we rely on trademark, copyright, and patent law, trade secret 
+protection, and confidentiality and/or license agreements with our employees, customers, and others to protect our proprietary 
+rights. Effective intellectual property protection is not available in every country in which our products and services are made 
+available. We also may not be able to acquire or maintain appropriate domain names in all countries in which we do business. 
+Furthermore, regulations governing domain names may not protect our trademarks and similar proprietary rights. We may be 
+8",21
+2024-apple-annual-report-10K.pdf,"For Apple Inc. during the fiscal year ending September 28, 2024, what specific challenges does the company face in maintaining its competitive advantage in the global markets for smartphones, personal computers, and tablets?",2024-apple-annual-report-10K,data\2024-apple-annual-report-10K.pdf,"The report is about Apple Inc. and covers the fiscal year ended September 28, 2024.","Global markets for the Company’s products and services are highly competitive and subject to rapid technological change, and the Company may be
+unable to compete effectively in these markets.
+The Company’s products and services are offered in highly competitive global markets characterized by aggressive price competition and resulting downward
+pressure on gross margins, frequent introduction of new products and services, short product life cycles, evolving industry standards, continual improvement in
+product price and performance characteristics, rapid adoption of technological advancements by competitors, and price sensitivity on the part of consumers and
+businesses.
+The Company’s ability to compete successfully depends heavily on ensuring the continuing and timely introduction of innovative new products, services and
+technologies to the marketplace. The Company designs and develops nearly the entire solution for its products, including the hardware, operating system,
+numerous software applications and related services. As a result, the Company must make significant investments in R&D. There can be no assurance these
+investments will achieve expected returns, and the Company may not be able to develop and market new products and services successfully.
+The Company currently holds a significant number of patents, trademarks and copyrights and has registered, and applied to register, additional patents,
+trademarks and copyrights. In contrast, many of the Company’s competitors seek to compete primarily through aggressive pricing and very low cost structures,
+and by imitating the Company’s products and infringing on its intellectual property. Effective intellectual property protection is not consistently available in every
+country in which the Company operates. If the Company is unable to continue to develop and sell innovative new products with attractive margins or if
+competitors infringe on the Company’s intellectual property, the Company’s ability to maintain a competitive advantage could be materially adversely affected.
+The Company has a minority market share in the global smartphone, personal computer and tablet markets. The Company faces substantial competition in
+these markets from companies that have significant technical, marketing, distribution and other resources, as well as established hardware, software and digital
+content supplier relationships. In addition, some of the Company’s competitors have broader product lines, lower-priced products and a larger installed base of
+active devices. Competition has been particularly intense as competitors have aggressively cut prices and lowered product margins. Certain competitors have
+the resources, experience or cost structures to provide products at little or no profit or even at a loss. Some of the markets in which the Company competes have
+from time to time experienced little to no growth or contracted overall.
+Additionally, the Company faces significant competition as competitors imitate the Company’s product features and applications within their products or
+collaborate to offer solutions that are more competitive than those they currently offer. The Company also expects competition to intensify as competitors imitate
+the Company’s approach to providing components seamlessly within their offerings or work collaboratively to offer integrated solutions.
+The Company’s services also face substantial competition, including from companies that have significant resources and experience and have established
+service offerings with large customer bases. The Company competes with business models that provide content to users for free. The Company also competes
+with illegitimate means to obtain third-party digital content and applications.
+The Company’s business, results of operations and financial condition depend substantially on the Company’s ability to continually improve its products and
+services to maintain their functional and design advantages. There can be no assurance the Company will be able to continue to provide products and services
+that compete effectively.
+Business Risks
+To remain competitive and stimulate customer demand, the Company must successfully manage frequent introductions and transitions of products
+and services.
+Due to the highly volatile and competitive nature of the markets and industries in which the Company competes, the Company must continually introduce new
+products, services and technologies, enhance existing products and services, effectively stimulate customer demand for new and upgraded products and
+services, and successfully manage the transition to these new and upgraded products and services. The success of new product and service introductions
+depends on a number of factors, including timely and successful development, market acceptance, the Company’s ability to manage the risks associated with",11
+2024-apple-annual-report-10K.pdf,What is the typical vesting schedule for Restricted Stock Unit Awards granted under Apple Inc.'s 2022 Employee Stock Plan?,2024-apple-annual-report-10K,data\2024-apple-annual-report-10K.pdf,"The report is about Apple Inc. and covers the fiscal year ended September 28, 2024.","Exhibit 10.19
+APPLE INC.
+2022 EMPLOYEE STOCK PLAN
+RESTRICTED STOCK UNIT AWARD AGREEMENT
+NOTICE OF GRANT
+Name:                    (the “Participant”)
+Employee ID:    
+Grant Number:    
+No. of Units Subject to Award:    
+Award Date:                (the “Award Date”)
+Vesting Commencement Date:    (the “Vesting Commencement Date”)
+Vesting Schedule:    
+This restricted stock unit award (the “Award”) is granted under and governed by the terms and conditions of the Apple Inc. 2022
+Employee Stock Plan and the Terms and Conditions of Restricted Stock Unit Award, which are incorporated herein by reference.
+You do not have to accept the Award. If you wish to decline your Award, you should promptly notify Apple Inc.’s Stock Plan Group of your
+decision at peoplesupport@apple.com. If you do not provide such notification by the last day of the calendar month prior to the first Vesting Date,
+you will be deemed to have accepted your Award on the terms and conditions set forth herein.",87
+2024-cisco-full-annual-report.pdf,"What risks and challenges did Cisco highlight in its fiscal year 2024 report regarding the growth and performance of its software subscription offerings, and how might these affect the company’s operations and financial condition?",2024-cisco-full-annual-report,data\2024-cisco-full-annual-report.pdf,The report is about Cisco and covers the fiscal year 2024.,"operations and financial condition. Further, growth of our software subscription offerings depends, in part, on the ability of 
+customers to use and access these solutions. We have experienced, and may in the future experience, interruptions in service, 
+storage failures, and other performance-related problems due to a variety of factors, such as infrastructure and software 
+changes, human or software errors, capacity constraints, unauthorized access, denial of service or other cyber attacks. In some 
+instances, we may not be able to timely identify the cause or causes of these performance problems and, even if timely 
+identified, we may be unable to timely remediate the underlying cause. It may become increasingly difficult to maintain and 
+improve our performance for our software subscription offerings, especially during peak usage times and as our solutions 
+become more complex and our user traffic increases. Performance-related issues of our software subscription offerings may 
+result in increased operational costs, delays in new feature rollouts, customer loss, reputational damage, and legal or regulatory 
+liability, including liability under customer contracts or for losses suffered by our customers.
+To deliver our software subscription offerings, we have incurred and will continue to incur substantial costs to implement and 
+maintain this business. We make significant investments to increase or maintain capacity and to develop and implement new 
+technologies in our infrastructure and operations, including those provided by third-party providers on which we rely. We may 
+not be successful in developing or implementing these technologies. To the extent that we do not effectively scale our 
+operations to meet the needs of our customers and to maintain performance as our customers expand their use of our solutions, 
+we may not be able to grow this business as quickly as we anticipate, our customers may reduce or cancel use of our solutions, 
+and we may be unable to compete as effectively and our business and results of operations may be harmed. Additionally, if our 
+costs associated with our software subscription offerings were to significantly increase, our business, results of operations and 
+financial condition may be negatively impacted. We are also subject to the risk of performance-related problems or interruption 
+of the services provided by third-party providers on which we rely, which could cause revenues for software subscription 
+offerings to decline, damage to our reputation, legal liability exposure, and/or increased expenses, all of which could negatively 
+impact our business, results of operations, and financial condition.
+We depend upon the development of new products and services, and enhancements to existing products and services, and if 
+we fail to predict and respond to emerging technological trends and customers’ changing needs, our operating results and 
+market share may suffer.
+The markets for our products and services are characterized by rapidly changing technology, evolving industry standards, new 
+product and service introductions, and evolving methods of building and operating networks. Our operating results depend on 
+our ability to develop and introduce new products and services into existing and emerging markets and to reduce the production 
+costs of existing products. If customers do not purchase and/or renew our offerings our business could be harmed.
+The process of developing new technology, including more programmable, flexible and virtual networks, and technology 
+related to other market transitions— such as artificial intelligence, security, observability, and cloud— is complex and 
+uncertain, and if we fail to accurately predict customers’ changing needs and emerging technological trends our business could 
+be harmed. We must commit significant resources, including the investments we have been making in our strategic priorities to 
+developing new products and services before knowing whether our investments will result in products and services the market 
+will accept. In particular, if our model of the evolution of networking, security, or observability does not emerge as we believe 
+it will, or these industries do not evolve as we believe they will, or if our strategy for addressing this evolution is not successful, 
+many of our strategic initiatives and investments may be of no or limited value. For example, if we do not introduce products 
+related to these markets in a timely fashion, or if product offerings in this market that ultimately succeed are based on 
+technology, or an approach to technology, that differs from ours, our business could be harmed. Similarly, our business could 
+be harmed if we fail to develop, or fail to develop in a timely fashion, offerings to address other transitions, or if the offerings 
+addressing these other transitions that ultimately succeed are based on technology, or an approach to technology, different from",50
+2024-cisco-full-annual-report.pdf,"How did the changes in net income, share repurchases, and dividend payments contribute to the changes in Cisco Systems, Inc.’s total equity from fiscal year 2021 through fiscal year end 2024?",2024-cisco-full-annual-report,data\2024-cisco-full-annual-report.pdf,The report is about Cisco and covers the fiscal year 2024.,"CISCO SYSTEMS, INC.
+Consolidated Statements of Equity
+(in millions, except per-share amounts)
+Shares of
+Common
+Stock
+Common Stock
+and
+Additional
+Paid-In Capital
+Retained 
+Earnings 
+(Accumulated 
+Deficit)
+Accumulated
+Other
+Comprehensive
+Loss
+Total 
+Equity
+BALANCE AT JULY 31, 2021     .....................................  
+4,217 
+$ 
+42,346 
+$ 
+(654) $ 
+(417) $ 
+41,275 
+Net income  ......................................................................
+ 
+11,812 
+ 
+11,812 
+Other comprehensive income (loss)   ...............................
+ 
+(1,205)  
+(1,205) 
+Issuance of common stock
+  ..............................................  
+54 
+ 
+660 
+ 
+660 
+Repurchase of common stock   .........................................  
+(146)  
+(1,490)  
+(6,244) 
+ 
+(7,734) 
+Shares repurchased for tax withholdings on vesting of 
+restricted stock units and other      .......................................  
+(13)  
+(692) 
+ 
+(692) 
+Cash dividends declared ($1.50 per common share)  ......
+ 
+(6,224) 
+ 
+(6,224) 
+Share-based compensation     .............................................
+ 
+1,886 
+ 
+1,886 
+Other     ...............................................................................  
+(2)  
+4 
+ 
+(9) 
+ 
+(5) 
+BALANCE AT JULY 30, 2022     .....................................  
+4,110 
+$ 
+42,714 
+$ 
+(1,319) $ 
+(1,622) $ 
+39,773 
+Net income  ......................................................................
+ 
+12,613 
+ 
+12,613 
+Other comprehensive income (loss)   ...............................
+ 
+47 
+ 
+47 
+Issuance of common stock
+  ..............................................  
+57 
+ 
+700 
+ 
+700 
+Repurchase of common stock   .........................................  
+(88)  
+(930)  
+(3,341) 
+ 
+(4,271) 
+Shares repurchased for tax withholdings on vesting of 
+restricted stock units and other      .......................................  
+(13)  
+(551) 
+ 
+(551) 
+Cash dividends declared ($1.54 per common share)  ......
+ 
+(6,302) 
+ 
+(6,302) 
+Share-based compensation     .............................................
+ 
+2,353 
+ 
+2,353 
+Other     ...............................................................................
+ 
+3 
+ 
+(12) 
+ 
+(9) 
+BALANCE AT JULY 29, 2023     ...................................  
+4,066 
+$ 
+44,289 
+$ 
+1,639 
+$ 
+(1,575) $ 
+44,353 
+Net income     .....................................................................
+ 
+10,320 
+ 
+10,320 
+Other comprehensive income (loss)      ............................
+ 
+145 
+ 
+145 
+Issuance of common stock     ...........................................  
+78 
+ 
+714 
+ 
+714 
+Repurchase of common stock     ......................................  
+(117)  
+(1,292)  
+(4,472) 
+ 
+(5,764) 
+Shares repurchased for tax withholdings on vesting 
+of restricted stock units and other     ..............................  
+(20)  
+(997) 
+ 
+(997) 
+Cash dividends declared ($1.58 per common share)   .
+ 
+(6,384) 
+ 
+(6,384) 
+Share-based compensation   ..........................................
+ 
+3,074 
+ 
+3,074 
+Other    ..............................................................................
+ 
+12 
+ 
+(16) 
+ 
+(4) 
+BALANCE AT JULY 27, 2024     ...................................  
+4,007 
+$ 
+45,800 
+$ 
+1,087 
+$ 
+(1,430) $ 
+45,457 
+See Notes to Consolidated Financial Statements.
+62",114
+2024-google-annual-report-10K.pdf,"What potential legal and regulatory risks did Alphabet Inc. face in the fiscal year 2024, and how did the company address these contingencies?",2024-google-annual-report-10K,data\2024-google-annual-report-10K.pdf,"The report is about Alphabet Inc. and covers the fiscal year ended December 31, 2024.","Loss Contingencies 
+Description of 
+the Matter
+The Company is subject to claims, lawsuits, regulatory and government inquiries and 
+investigations, other proceedings, and orders involving competition, intellectual property, data 
+privacy and security, tax and related compliance, labor and employment, commercial disputes, 
+content generated by its users, goods and services offered by advertisers or publishers using their 
+platforms, personal injury, and other matters. As described in Note 10 to the consolidated financial 
+statements “Commitments and Contingencies” such claims, lawsuits, regulatory and government 
+inquiries and investigations, other proceedings, and orders could result in adverse consequences.
+Significant judgment is required to determine both the likelihood and the estimated amount of a 
+loss related to such matters. Auditing management’s accounting for and disclosure of loss 
+contingencies from these matters involved challenging and subjective auditor judgment in 
+assessing the Company’s evaluation of the probability of a loss, and the estimated amount or 
+range of loss.
+How We 
+Addressed the 
+Matter in Our 
+Audit
+We tested relevant controls over the identified risks associated with management’s accounting for 
+and disclosure of these matters. This included controls over management’s assessment of the 
+probability of incurrence of a loss and whether the loss or range of loss was reasonably estimable 
+and the development of related disclosures.
+Our audit procedures included gaining an understanding of previous rulings and the status of 
+ongoing lawsuits, reviewing letters from internal and external legal counsel addressing the matters, 
+meeting with internal legal counsel to discuss the allegations, and obtaining a representation letter 
+from management on these matters. We also evaluated the Company’s disclosures in relation to 
+these matters.
+/s/ Ernst & Young LLP
+We have served as the Company's auditor since 1999.
+San Jose, California
+February 4, 2025
+Table of Contents
+Alphabet Inc.
+50.",71
+2024-google-annual-report-10K.pdf,"How does Alphabet Inc. measure and recognize impairments for certain long-lived assets as described in its annual report for the fiscal year ended December 31, 2024?",2024-google-annual-report-10K,data\2024-google-annual-report-10K.pdf,"The report is about Alphabet Inc. and covers the fiscal year ended December 31, 2024.","at the lowest level of identifiable cash flows independent of other assets. We measure recoverability of these assets by 
+comparing the carrying amounts to the future undiscounted cash flows that the assets or the asset group are expected 
+to generate. If the carrying value of the assets or asset group is not recoverable, the impairment recognized is 
+measured as the amount by which the carrying value exceeds its fair value.
+Income Taxes
+We account for income taxes using the asset and liability method, under which we recognize the amount of taxes 
+payable or refundable for the current year and deferred tax assets and liabilities for the future tax consequences of 
+events that have been recognized in our financial statements or tax returns. We measure current and deferred tax 
+assets and liabilities based on provisions of enacted tax law. We evaluate the likelihood of future realization of our 
+deferred tax assets based on all available evidence and establish a valuation allowance to reduce deferred tax assets 
+when it is more likely than not that they will not be realized or release a valuation allowance to increase deferred tax 
+assets when it is more likely than not that they will be realized. We have elected to account for the tax effects of the 
+global intangible low tax income provision as a current period expense.
+We recognize the financial statement effects of a tax position when it is more likely than not that, based on 
+technical merits, the position will be sustained upon examination. The tax benefits of the position recognized in the 
+financial statements are then measured based on the largest amount of benefit that is greater than 50% likely to be 
+realized upon settlement with a taxing authority. In addition, we recognize interest and penalties related to 
+unrecognized tax benefits as a component of the income tax provision.
+Business Combinations
+We include the results of operations of the businesses that we acquire as of the acquisition date. We allocate the 
+purchase price of the acquisitions to the assets acquired and liabilities assumed based on their estimated fair values, 
+except for revenue contracts acquired, which are recognized in accordance with our revenue recognition policy. The 
+excess of the purchase price over the fair values of identifiable assets and liabilities is recorded as goodwill. 
+Acquisition-related expenses are recognized separately from the business combination and are expensed as incurred.
+Foreign Currency
+We translate the financial statements of our international subsidiaries to U.S. dollars using month-end exchange 
+rates for assets and liabilities, and average rates for the period derived from month-end exchange rates for revenues, 
+costs, and expenses. We record translation gains and losses in AOCI as a component of stockholders’ equity. We 
+reflect net foreign exchange transaction gains and losses resulting from the conversion of the transaction currency to 
+functional currency as a component of foreign currency exchange gain (loss) in OI&E.
+Recently Issued Accounting Pronouncements Not Yet Adopted
+In December 2023, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update 
+(ASU) 2023-09 ""Income Taxes (Topics 740): Improvements to Income Tax Disclosures"" to expand the disclosure 
+requirements for income taxes. Upon adoption we will be required to disclose additional specified categories in the rate 
+reconciliation in both percentage and dollar amounts. We will also be required to disclose the amount of income taxes 
+paid disaggregated by jurisdiction, among other disclosure requirements. The standard can be applied either 
+prospectively or retrospectively. We will adopt the standard in our 2025 annual period and are currently assessing the 
+effect that the updated standard will have on our financial statement disclosures.
+In November 2024, the FASB issued ASU 2024-03 ""Income Statement: Reporting Comprehensive Income-
+Expense Disaggregation Disclosures (Subtopic 220-40)"" to improve the disclosures about an entity’s expenses. Upon 
+adoption, we will be required to disclose in the notes to the financial statements a disaggregation of certain expense 
+categories included within the expense captions on the face of the income statement. The standard is effective for our 
+2027 annual period, and our interim periods beginning in 2028, with early adoption permitted. The standard can be 
+applied either prospectively or retrospectively. We are currently assessing adoption timing and the effect that the 
+updated standard will have on our financial statement disclosures.
+Recently Adopted Accounting Pronouncements
+In November 2023, the FASB issued ASU No. 2023-07 “Segment Reporting (Topic 280): Improvements to 
+Reportable Segment Disclosures” which expands annual and interim disclosure requirements for reportable segments, 
+primarily through enhanced disclosures about significant segment expenses. We adopted this ASU for our 2024 annual",85
+2024-meta-full-annual-report.pdf,"What was the net cash provided by operating activities for Meta Platforms, Inc. in the full year 2024?",2024-meta-full-annual-report,data\2024-meta-full-annual-report.pdf,"The report is about Meta Platforms, Inc. and covers the financial year 2024.","META PLATFORMS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In millions)
+(Unaudited)
+Three Months Ended 
+December 31,
+Twelve Months Ended 
+December 31,
+2024
+2023
+2024
+2023
+Cash flows from operating activities
+Net income
+$ 
+20,838 $ 
+14,017 $ 
+62,360 $ 
+39,098 
+Adjustments to reconcile net income to net cash provided by 
+operating activities:
+Depreciation and amortization
+ 
+4,460  
+3,172  
+15,498  
+11,178 
+Share-based compensation
+ 
+4,262  
+3,424  
+16,690  
+14,027 
+Deferred income taxes
+ 
+(1,332)  
+(1,161)  
+(4,738)  
+131 
+Impairment charges for facilities consolidation
+ 
+94  
+1,091  
+383  
+2,432 
+Data center assets abandonment
+ 
+—  
+7  
+—  
+(224) 
+Other
+ 
+169  
+124  
+87  
+635 
+Changes in assets and liabilities:
+Accounts receivable
+ 
+(2,978)  
+(2,843)  
+(1,485)  
+(2,399) 
+Prepaid expenses and other current assets
+ 
+(530)  
+700  
+(698)  
+559 
+Other assets
+ 
+(200)  
+(111)  
+(270)  
+(80) 
+Accounts payable
+ 
+568  
+595  
+373  
+51 
+Accrued expenses and other current liabilities
+ 
+1,523  
+(274)  
+323  
+5,081 
+Other liabilities
+ 
+1,114  
+663  
+2,805  
+624 
+Net cash provided by operating activities
+ 
+27,988  
+19,404  
+91,328  
+71,113 
+Cash flows from investing activities
+Purchases of property and equipment
+ 
+(14,425)  
+(7,592)  
+(37,256)  
+(27,045) 
+Purchases of marketable securities
+ 
+(10,898)  
+(1,171)  
+(25,542)  
+(2,982) 
+Sales and maturities of marketable securities
+ 
+3,817  
+2,359  
+15,789  
+6,184 
+Acquisitions of businesses and intangible assets
+ 
+(9)  
+(64)  
+(270)  
+(629) 
+Other investing activities
+ 
+17  
+(4)  
+129  
+(23) 
+Net cash used in investing activities
+ 
+(21,498)  
+(6,472)  
+(47,150)  
+(24,495) 
+Cash flows from financing activities
+Taxes paid related to net share settlement of equity awards
+ 
+(3,857)  
+(2,223)  
+(13,770)  
+(7,012) 
+Repurchases of Class A common stock
+ 
+—  
+(5,942)  
+(30,125)  
+(19,774) 
+Payments for dividends and dividend equivalents
+ 
+(1,269)  
+—  
+(5,072)  
+— 
+Proceeds from issuance of long-term debt, net
+ 
+—  
+—  
+10,432  
+8,455 
+Principal payments on finance leases
+ 
+(411)  
+(307)  
+(1,969)  
+(1,058) 
+Other financing activities
+ 
+72  
+71  
+(277)  
+(111) 
+Net cash used in financing activities
+ 
+(5,465)  
+(8,401)  
+(40,781)  
+(19,500) 
+Effect of exchange rate changes on cash, cash equivalents, and 
+restricted cash
+ 
+(714)  
+396  
+(786)  
+113 
+Net increase in cash, cash equivalents, and restricted cash
+ 
+311  
+4,927  
+2,611  
+27,231 
+Cash, cash equivalents, and restricted cash at beginning of the 
+period
+ 
+45,127  
+37,900  
+42,827  
+15,596 
+Cash, cash equivalents, and restricted cash at end of the period
+$ 
+45,438 $ 
+42,827 $ 
+45,438 $ 
+42,827 
+Reconciliation of cash, cash equivalents, and restricted cash to 
+the condensed consolidated balance sheets
+Cash and cash equivalents
+$ 
+43,889 $ 
+41,862 $ 
+43,889 $ 
+41,862 
+Restricted cash, included in prepaid expenses and other current 
+assets
+ 
+353  
+99  
+353  
+99 
+Restricted cash, included in other assets
+ 
+1,196  
+866  
+1,196  
+866 
+Total cash, cash equivalents, and restricted cash
+$ 
+45,438 $ 
+42,827 $ 
+45,438 $ 
+42,827 
+7",7
+2024-meta-full-annual-report.pdf,"What was the change in the long-term debt of Meta Platforms, Inc. from December 31, 2023, to December 31, 2024?",2024-meta-full-annual-report,data\2024-meta-full-annual-report.pdf,"The report is about Meta Platforms, Inc. and covers the financial year 2024.","META PLATFORMS, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(In millions)
+(Unaudited)
+December 31, 2024
+December 31, 2023
+Assets
+Current assets:
+Cash and cash equivalents
+$ 
+43,889 $ 
+41,862 
+Marketable securities
+ 
+33,926  
+23,541 
+Accounts receivable, net
+ 
+16,994  
+16,169 
+Prepaid expenses and other current assets
+ 
+5,236  
+3,793 
+Total current assets
+ 
+100,045  
+85,365 
+Non-marketable equity securities
+ 
+6,070  
+6,141 
+Property and equipment, net
+ 
+121,346  
+96,587 
+Operating lease right-of-use assets
+ 
+14,922  
+13,294 
+Goodwill
+ 
+20,654  
+20,654 
+Other assets
+ 
+13,017  
+7,582 
+Total assets
+$ 
+276,054 $ 
+229,623 
+Liabilities and stockholders' equity
+Current liabilities:
+Accounts payable
+$ 
+7,687 $ 
+4,849 
+Operating lease liabilities, current
+ 
+1,942  
+1,623 
+Accrued expenses and other current liabilities
+ 
+23,967  
+25,488 
+Total current liabilities
+ 
+33,596  
+31,960 
+Operating lease liabilities, non-current
+ 
+18,292  
+17,226 
+Long-term debt
+ 
+28,826  
+18,385 
+Long-term income taxes
+ 
+9,987  
+7,514 
+Other liabilities
+ 
+2,716  
+1,370 
+Total liabilities
+ 
+93,417  
+76,455 
+Commitments and contingencies
+Stockholders' equity:
+Common stock and additional paid-in capital
+ 
+83,228  
+73,253 
+Accumulated other comprehensive loss
+ 
+(3,097)  
+(2,155) 
+Retained earnings
+ 
+102,506  
+82,070 
+Total stockholders' equity
+ 
+182,637  
+153,168 
+Total liabilities and stockholders' equity
+$ 
+276,054 $ 
+229,623 
+6",6
+2024-netflix-annual-report-10K.pdf,"Based on the provided chunk and summary context, here is a question that meets your requirements:
+
+**What are the main locations of Netflix, Inc.’s principal leased properties for the year ended December 31, 2024, and how does the company assess the adequacy of its facilities for future expansion?**",2024-netflix-annual-report-10K,data\2024-netflix-annual-report-10K.pdf,"This report is about Netflix, Inc., a Delaware corporation headquartered in Los Gatos, California, and covers the company’s financial and operational results for the fiscal year ended December 31, 2024[3][4].","Table of Contents
+Item 2.
+Properties
+We have leased principal properties in both Los Gatos, California, which is the location of our corporate headquarters, and in Los Angeles, California. In
+addition, we own and lease various office and production space throughout the world.
+We believe that our existing facilities are adequate to meet current requirements, and that suitable additional or substitute space will be available as
+needed to accommodate any further physical expansion of operations and for any additional offices.
+Item 3.
+Legal Proceedings
+Information with respect to this item may be found in Note 8 Commitments and Contingencies in the accompanying notes to our consolidated financial
+statements included in Part II, Item 8, ""Financial Statements and Supplementary Data"" of this Annual Report on Form 10-K, under the caption ""Legal
+Proceedings"" which information is incorporated herein by reference.
+ 
+Item 4.
+Mine Safety Disclosures
+Not applicable.
+16",31
+2024-netflix-annual-report-10K.pdf,"What exhibits are included in the Netflix, Inc. 2024 report’s exhibit index, and what are their descriptions and filing dates?",2024-netflix-annual-report-10K,data\2024-netflix-annual-report-10K.pdf,"This report is about Netflix, Inc., a Delaware corporation headquartered in Los Gatos, California, and covers the company’s financial and operational results for the fiscal year ended December 31, 2024[3][4].","Table of Contents
+EXHIBIT INDEX
+Exhibit
+Number
+Exhibit Description
+Incorporated by Reference
+Filed
+Herewith
+Form
+File No.
+Exhibit
+Filing Date
+3.1
+Restated Certificate of Incorporation
+8-K
+001-35727
+3.1
+June 8, 2022
+3.2
+Amended and Restated Bylaws
+8-K
+001-35727
+3.2
+February 24, 2023
+4.1
+Form of Common Stock Certificate
+S-1/A
+333-83878
+4.1
+April 16, 2002
+4.2
+Indenture, dated as of February 5, 2015, by and between the
+Company and Wells Fargo Bank, National Association, as Trustee.
+8-K
+001-35727
+4.2
+February 5, 2015
+4.3
+Indenture, dated as of October 27, 2016, by and between the
+Company and Wells Fargo Bank, National Association, as Trustee.
+8-K
+001-35727
+4.1
+October 27, 2016
+4.4
+Indenture, dated as of May 2, 2017, by and between the Company
+and Wells Fargo Bank, National Association, as Trustee.
+8-K
+001-35727
+4.1
+May 3, 2017
+4.5
+Indenture, dated as of October 26, 2017, by and between the
+Company and Wells Fargo Bank National Association, as Trustee
+8-K
+001-35727
+4.1
+October 26, 2017
+4.6
+Indenture, dated as of April 26, 2018, by and between the Company
+and Wells Fargo Bank National Association, as Trustee
+8-K
+001-35727
+4.1
+April 26, 2018
+4.7
+Indenture, dated as of October 26, 2018, by and between the
+Company and Wells Fargo Bank National Association, as Trustee
+(6.375% Senior Notes due 2029)
+8-K
+001-35727
+4.1
+October 26, 2018
+4.8
+Indenture, dated as of October 26, 2018, by and between the
+Company and Wells Fargo Bank National Association, as Trustee
+(4.625% Senior Notes due 2029)
+8-K
+001-35727
+4.3
+October 26, 2018
+4.9
+Indenture, dated as of April 29, 2019, by and between the Company
+and Wells Fargo Bank National Association, as Trustee (5.375%
+Senior Notes due 2029)
+8-K
+001-35727
+4.1
+April 29, 2019
+4.10
+Indenture, dated as of April 29, 2019, by and between the Company
+and Wells Fargo Bank National Association, as Trustee (3.875%
+Senior Notes due 2029)
+8-K
+001-35727
+4.3
+April 29, 2019
+4.11
+Indenture, dated as of October 25, 2019, by and between the
+Company and Wells Fargo Bank National Association, as Trustee
+(4.875% Senior Notes due 2030)
+8-K
+001-35727
+4.1
+October 25, 2019
+4.12
+Indenture, dated as of October 25, 2019, by and between the
+Company and Wells Fargo Bank National Association, as Trustee
+(3.625% Senior Notes due 2030)
+8-K
+001-35727
+4.3
+October 25, 2019
+4.13
+Indenture, dated as of April 28, 2020, by and between the Company
+and Wells Fargo Bank National Association, as Trustee (3.625%
+Senior Notes due 2025)
+8-K
+001-35727
+4.1
+April 28, 2020
+4.14
+Indenture, dated as of April 28, 2020, by and between the Company
+and Wells Fargo Bank National Association, as Trustee (3.000%
+Senior Notes due 2025)
+8-K
+001-35727
+4.3
+April 28, 2020
+4.15
+Indenture, dated as of July 29, 2024, by and between the Company
+and Computershare Trust Company, National Association, as
+Trustee.
+S-3
+333-281071
+4.1
+July 29, 2024
+4.16
+Supplemental Indenture, dated as of August 1, 2024, by and
+between the Company and Computershare Trust Company,
+National Association, as Trustee.
+8-K
+001-35727
+4.2
+August 1, 2024
+4.17
+Description of Registrant's Securities Registered Pursuant to
+Section 12 of the Securities Exchange Act of 1934
+10-K
+001-35727
+4.18
+January 26, 2023
+10.1†
+Form of Indemnification Agreement entered into by the registrant
+with each of its executive officers and directors
+S-1/A
+333-83878
+10.1
+March 20, 2002
+10.2†
+2011 Stock Plan
+Def 14A
+000-49802
+A
+April 20, 2011
+10.3†
+2020 Stock Plan
+Def 14A
+001-35727
+A
+April 22, 2020
+10.4†
+Description of Director Equity Compensation Plan
+8-K
+001-35727
+Item
+5.02
+January 24, 2018
+66",89
+2024-nvidia-annual-report-10K.pdf,What are the key deadlines for NVIDIA Corporation's 2025 Meeting regarding stockholder proposals and director nominations?,2024-nvidia-annual-report-10K,data\2024-nvidia-annual-report-10K.pdf,"This report is about NVIDIA Corporation and covers the fiscal year 2024, highlighting its leadership in accelerated computing and generative AI, which are transforming industries and driving sustainability by making data centers more efficient and reducing global energy consumption[1].","2025 Meeting Deadlines for Submission of Stockholder Proposals, Nomination of Directors, and Other Business of 
+Stockholders
+Proposals to be Considered for Inclusion in Our Proxy Materials Pursuant to Rule 14a-8
+Stockholders who wish to present proposals pursuant to Rule 14a-8 promulgated under the Exchange Act for inclusion in 
+the proxy materials to be distributed by us in connection with our 2025 Meeting must submit their proposals in writing to 
+NVIDIA Corporation, 2788 San Tomas Expressway, Santa Clara, California 95051, Attention: Timothy S. Teter, Secretary, or 
+by email to shareholdermeeting@nvidia.com, on or before January 14, 2025.
+Director Nominations Under Our Proxy Access Bylaw
+A stockholder (or a group of up to 20 stockholders) who has owned at least 3% of the voting power of our outstanding 
+capital stock for at least three continuous years and has complied with the other requirements in our Bylaws may 
+nominate and include in our proxy materials director nominees constituting up to the greater of (a) up to two director 
+candidates or (b) up to 20% of the number of directors in office on the last day that a submission may be delivered.  
+Notice of a proxy access nomination for consideration at our 2025 Meeting must be received following the above 
+instructions not later than the close of business on March 28, 2025, and not earlier than February 26, 2025.  In the event 
+that we hold the 2025 Meeting more than 30 days prior to, or delayed by more than 30 days after, the first anniversary of 
+the 2024 Meeting, for written notice by the stockholder to be timely, such notice must be delivered following the above 
+instructions not earlier than the close of business on the 120th day prior to the 2025 Meeting and not later than the close 
+of business on the 90th day prior to the 2025 Meeting or the 10th day following the day on which public announcement 
+of the date of the 2025 Meeting is first made by us, whichever is later.
+Other Director Nominations and Proposals
+Apart from Rule 14a-8 and the proxy access provision of our Bylaws, under our Bylaws certain procedures must be 
+followed for a stockholder to nominate a director or to introduce an item of business at an annual meeting of 
+stockholders.  If you wish to nominate a director or introduce an item of business at the 2025 Meeting that is not 
+included in the proxy materials to be distributed by us in connection with our 2025 Meeting, you must do so in writing 
+following the above instructions not later than the close of business on March 28, 2025, and not earlier than February 26, 
+2025.  In the event that we hold the 2025 Meeting more than 30 days prior to, or delayed by more than 70 days after, the 
+first anniversary of the 2024 Meeting, for written notice by the stockholder to be timely, such notice must be delivered 
+following the above instructions not earlier than the close of business on the 120th day prior to the 2025 Meeting and 
+not later than the close of business on the 90th day prior to the 2025 Meeting or the 10th day following the day on which 
+public announcement of the date of the 2025 Meeting is first made by us, whichever is later.
+Additional Requirements and Information
+We also advise you to review our Bylaws, which contain additional requirements about advance notice of stockholder 
+proposals, director nominations, and proxy access nominations.  We recognize the importance of the ability of our 
+stockholders to nominate directors to our Board.  Accordingly, our Board will take into account feedback we receive from 
+our stockholder engagement process regarding the process and disclosure requirements of our Bylaws for nominating 
+directors and other proposals.  Our Board will engage with stockholders of various holdings size regarding any proposed 
+amendments to our Bylaws that would require a nominating stockholder to disclose to us (i) such stockholder’s plans to 
+nominate candidates to the board of directors of other public companies, or disclose prior director nominations or 
+proposals that such stockholder privately submitted to other public companies or (ii) information about such 
+stockholder’s limited partners or business associates beyond the existing requirements of our Bylaws.
+14",36
+2024-nvidia-annual-report-10K.pdf,"What are the main components and features of NVIDIA’s AI computing platform for autonomous vehicles as described in the NVIDIA Corporation fiscal year 2024 report, and how does this platform support the development, deployment, and continuous innovation of self-driving vehicle systems?",2024-nvidia-annual-report-10K,data\2024-nvidia-annual-report-10K.pdf,"This report is about NVIDIA Corporation and covers the fiscal year 2024, highlighting its leadership in accelerated computing and generative AI, which are transforming industries and driving sustainability by making data centers more efficient and reducing global energy consumption[1].","We are working with several hundred partners in the automotive ecosystem including automakers, truck makers, tier-one 
+suppliers, sensor manufacturers, automotive research institutions, HD mapping companies, and startups to develop and 
+deploy AI systems for self-driving vehicles. Our unified AI computing architecture starts with training deep neural 
+networks using our Data Center computing solutions, and then running a full perception, fusion, planning, and control 
+stack within the vehicle on the NVIDIA DRIVE Hyperion platform. DRIVE Hyperion consists of the high-performance, 
+energy efficient DRIVE AGX computing hardware, a reference sensor set that supports full self-driving capability as well 
+as an open, modular DRIVE software platform for autonomous driving, mapping, and parking services, and intelligent in-
+vehicle experiences.
+In addition, we offer a scalable data center-based simulation solution, NVIDIA DRIVE Sim, based on NVIDIA Omniverse 
+software, for digital cockpit development, as well as for testing and validating a self-driving platform. Our unique end-to-
+end, software-defined approach is designed for continuous innovation and continuous development, enabling cars to 
+receive over-the-air updates to add new features and capabilities throughout the life of a vehicle.
+Business Strategies
+NVIDIA’s key strategies that shape our overall business approach include:
+Advancing the NVIDIA accelerated computing platform. Our accelerated computing platform can solve complex 
+problems in significantly less time and with lower power consumption than alternative computational approaches. Indeed, 
+it can help solve problems that were previously deemed unsolvable. We work to deliver continued performance leaps that 
+outpace Moore’s Law by leveraging innovation across the architecture, chip design, system, interconnect, and software 
+layers. This full-stack innovation approach allows us to deliver order-of-magnitude performance advantages relative to 
+legacy approaches in our target markets, which include Data Center, Gaming, Professional Visualization, and Automotive. 
+While the computing requirements of these end markets are diverse, we address them with a unified underlying 
+architecture leveraging our GPUs, CUDA and networking technologies as the fundamental building blocks. The 
+programmable nature of our architecture allows us to make leveraged investments in research and development: we can 
+support several multi-billion-dollar end markets with shared underlying technology by using a variety of software stacks 
+developed either internally or by third-party developers and partners. We utilize this platform approach in each of our 
+target markets. 
+Extending our technology and platform leadership in AI. We provide a complete, end-to-end accelerated computing 
+platform for AI, addressing both training and inferencing. This includes full-stack data center-scale compute and 
+networking solutions across processing units, interconnects, systems, and software. Our compute solutions include all 
+three major processing units in AI servers – GPUs, CPUs, and DPUs. GPUs are uniquely suited to AI, and we will continue to 
+add AI-specific features to our GPU architecture to further extend our leadership position. In addition, we offer DGX 
+Cloud, an AI-training-as-a-service platform, and NeMo – a complete solution for building enterprise-ready Large Language 
+Models, or LLMs, using open source and proprietary LLMs created by NVIDIA and third parties. Our AI technology 
+leadership is reinforced by our large and expanding ecosystem in a virtuous cycle. Our computing platforms are available 
+from virtually every major server maker and CSP, as well as on our own AI supercomputers. There are over 4.7 million 
+developers worldwide using CUDA and our other software tools to help deploy our technology in our target markets. We 
+evangelize AI through partnerships with hundreds of universities and thousands of startups through our Inception 
+program. Additionally, our Deep Learning Institute provides instruction on the latest techniques on how to design, train, 
+and deploy neural networks in applications using our accelerated computing platform. 
+Extending our technology and platform leadership in computer graphics. We believe that computer graphics infused 
+with AI is fundamental to the continued expansion and evolution of computing. We apply our research and development 
+resources to enhance the user experience for consumer entertainment and professional visualization applications and 
+create new virtual world and simulation capabilities. Our technologies are instrumental in driving the gaming, design, and 
+creative industries forward, as developers leverage our libraries and algorithms to deliver an optimized experience on our 
+GeForce and NVIDIA RTX platforms. Our computer graphics platforms leverage AI end-to-end, from the developer tools",115
+2024-oracle-annual-report-10K.pdf,"What information does the Oracle Corporation Annual Report on Form 10-K for the fiscal year ended May 31, 2024, provide regarding the status of U.S. federal and state income tax audits for Oracle and its acquired entities?",2024-oracle-annual-report-10K,data\2024-oracle-annual-report-10K.pdf,"The report is the Oracle Corporation Annual Report on Form 10-K for the fiscal year ended May 31, 2024.","benefits). Our U.S. federal income tax returns have been examined for all years prior to fiscal 2013 and, with some exceptions, we are 
+no longer subject to audit for those periods. Our U.S. state income tax returns, with some exceptions, have been examined for all 
+years prior to fiscal 2010, and we are no longer subject to audit for those periods.
+Internationally, tax authorities for numerous non-U.S. jurisdictions are also examining or have examined returns of Oracle and various 
+acquired entities for years through fiscal 2023. Many of the relevant tax years are at an advanced 
+5/25/25, 1:44 PM
+10-K
+https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/orcl-20240531.htm
+169/194",189
+2024-oracle-annual-report-10K.pdf,"What was the total stock-based compensation expense for Oracle Corporation in the fiscal year ended May 31, 2024?",2024-oracle-annual-report-10K,data\2024-oracle-annual-report-10K.pdf,"The report is the Oracle Corporation Annual Report on Form 10-K for the fiscal year ended May 31, 2024.","Table of Contents
+Index to Financial Statements
+ 
+The following table summarizes stock option activity, including SOs and PSOs, and includes awards granted pursuant to the Plans and 
+stock plans assumed from our acquisitions for our last three fiscal years ended May 31, 2024:
+ 
+ 
+ 
+Options Outstanding
+ 
+(in millions, except exercise price)
+ 
+Shares Under
+Stock Option
+   
+Weighted-Average
+Exercise Price
+ 
+Balance, May 31, 2021
+   
+107    
+$
+40.14  
+Granted and assumed
+   
+—    
+$
+—  
+Exercised
+   
+(10 )  
+$
+34.34  
+Balance, May 31, 2022
+   
+97    
+$
+40.70  
+Granted and assumed
+   
+—    
+$
+—  
+Exercised
+   
+(33 )  
+$
+31.37  
+Balance, May 31, 2023
+   
+64    
+$
+45.42  
+Granted and assumed
+   
+2    
+$
+113.91  
+Exercised
+   
+(15 )  
+$
+34.84  
+Balance, May 31, 2024
+   
+51    
+$
+51.05  
+ 
+Stock options outstanding that have vested and that are expected to vest as of May 31, 2024 were as follows:
+ 
+ 
+ 
+Outstanding
+Stock Options
+(in millions)
+   
+Weighted-Average
+Exercise Price
+   
+Weighted-Average
+Remaining Contract Term
+(in years)
+   
+Aggregate 
+Intrinsic Value  
+(in millions)
+ 
+Vested
+   
+24     $
+46.38      
+1.63     $
+1,691  
+Expected to vest
+   
+11     $
+56.99      
+1.93      
+674  
+Total
+   
+35     $
+49.76      
+1.73     $
+2,365  
+ 
+The aggregate intrinsic value was calculated based on the gross difference between our closing stock price on the last trading day of fiscal 2024 of $117.19 and the exercise 
+prices for all “in-the-money” options outstanding, excluding tax effects.
+The unrecognized compensation expense calculated under the fair value method for shares expected to vest as of May 31, 2024 was approximately $76 million and is 
+expected to be recognized over a weighted-average period of 2.96 years. Approximately 16 million shares outstanding as of May 31, 2024 were not expected to vest.
+Stock-Based Compensation Expense and Valuations of Restricted Stock-Based Awards
+We estimated the fair values of our restricted stock-based awards that are solely subject to service-based vesting requirements based 
+upon their market values as of the grant dates, discounted for the present values of expected dividends. 
+Stock-based compensation expense was included in the following operating expense line items in our consolidated statements of 
+operations:
+ 
+ 
+ 
+Year Ended May 31,
+ 
+(in millions)
+ 
+2024
+   
+2023
+   
+2022
+ 
+Cloud services and license support
+  $
+525     $
+435     $
+205  
+Hardware
+   
+23      
+18      
+15  
+Services
+   
+167      
+137      
+67  
+Sales and marketing
+   
+667      
+611      
+448  
+Research and development
+   
+2,225      
+1,983      
+1,633  
+General and administrative
+   
+367      
+363      
+245  
+Total stock-based compensation
+   
+3,974      
+3,547      
+2,613  
+Estimated income tax benefit included in provision for income taxes
+   
+(913 )    
+(802 )    
+(593 )
+Total stock-based compensation, net of estimated income tax benefit
+  $
+3,061     $
+2,745     $
+2,020  
+ 
+(1)
+(2)
+(1)
+(2)
+5/25/25, 1:44 PM
+10-K
+https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/orcl-20240531.htm
+162/194",181
+2024-reddit-annual-report-10K.pdf,"What are some of the key risks and challenges that Reddit, Inc. faces in scaling its business and maintaining growth in the fiscal year ended December 31, 2024?",2024-reddit-annual-report-10K,data\2024-reddit-annual-report-10K.pdf,"The report is about Reddit, Inc. and covers the fiscal year ended December 31, 2024.","•
+We are in the early stages of monetizing our business, and there is no assurance we will be able to scale our business 
+for future growth.
+•
+We generate a majority of our revenue from advertising. The failure to attract new advertisers, the loss of advertisers, 
+or the reduction of or failure by advertisers to maintain or increase their advertising budgets would adversely affect our 
+business.
+•
+We may not succeed in further expanding and monetizing our platform internationally and may be subject to increased 
+international business and economic risks.
+•
+We are exploring business opportunities in content licensing, but we are in the early stages and the market is new and 
+evolving rapidly.
+•
+Our business, results of operations, financial condition, and prospects may be harmed by our failure to timely and 
+effectively scale and adapt our existing technology and infrastructure.
+•
+We anticipate that our ongoing efforts related to data privacy, safety, security, and content review will identify 
+instances of misuse of user data or other undesirable activity by third parties on our platform.
+•
+If our security measures are breached, or if our products and services are subject to attacks involving our systems or 
+data, some of which contain personal information, or that degrade or deny the ability of users to access our products and 
+services, our products and services may be perceived as not being secure, Redditors and advertisers may curtail or stop using 
+our products and services, and our reputation, business, results of operations, financial condition, and prospects could be 
+harmed.
+•
+Redditor growth and engagement depends upon effective interoperation with operating systems, networks, devices, 
+web browsers, online application stores, regulations, and standards that we do not control. Changes in our products or to those 
+operating systems, networks, devices, web browsers, online application stores, regulations, or standards may harm Redditor 
+retention, growth, and engagement, which could harm our business, results of operations, financial condition, and prospects.
+•
+Our business is subject to increasingly complex and evolving laws, rules, regulations, industry standards, and other 
+legal obligations regarding content, consumer protection, competition, privacy, and other matters. Failure to comply with such 
+laws, rules, regulations, industry standards, and other legal obligations could harm our business.
+•
+Interest in our Class A common stock from retail and other individual investors, for reasons unrelated to our 
+underlying business or macro or industry fundamentals, could result in increased volatility in the market price of our Class A 
+common stock.
+•
+The multi-class structure of our common stock has the effect of concentrating voting control with those stockholders 
+who held our capital stock prior to the listing of our Class A common stock on the NYSE, including our directors, executive 
+officers, and 5% stockholders, and their respective affiliates. This ownership will limit or preclude your ability to influence 
+corporate matters, including the election of directors, amendments of our organizational documents, and any major corporate 
+transaction requiring stockholder approval, including change of control transactions.
+•
+Our amended and restated certificate of incorporation and the governance agreement we entered into with our principal 
+stockholder grant our principal stockholder certain rights with respect to the control and management of our business, which 
+may prevent us from taking actions that may be beneficial to us and our other stockholders.
+Risks Related to Our Business
+We face intense competition, and if we fail to grow or retain our user base or maintain user engagement, our business, 
+results of operations, financial condition, and prospects could be adversely affected.
+The size of our user base and their level of engagement are critical to our success. Our financial performance has been, and 
+will continue to be, significantly determined by our success in growing our user base so that we add Redditors, and those 
+Redditors become more active users—more specifically, daily active uniques (“DAUq”). We define a user whom we can 
+identify with a unique identifier who has visited a page on the Reddit website, www.reddit.com, or opened a Reddit application 
+at least once during a 24-hour period as a DAUq. DAUq is a user metric utilized by our management team. While it may be 
+used to gauge usage of our platform, it may not correlate to revenue. We also measure weekly active uniques (“WAUq”) to help 
+us understand the reach of our platform. We may not be successful in our strategies to convert monthly users or WAUq into 
+more DAUq.
+Table of Contents
+14",17
+2024-reddit-annual-report-10K.pdf,"What were the weighted-average assumptions used to determine the fair value of employee stock options granted by Reddit, Inc. during the year ended December 31, 2023, and what was the total stock-based compensation expense recognized by Reddit, Inc. for the year ended December 31, 2024?",2024-reddit-annual-report-10K,data\2024-reddit-annual-report-10K.pdf,"The report is about Reddit, Inc. and covers the fiscal year ended December 31, 2024.","The following weighted-average assumptions were used to determine the fair value of employee stock options granted 
+during the year ended December 31, 2023:
+Expected volatility     ..............................................................................................................................................
+ 60.66 %
+Risk-free interest rate     ..........................................................................................................................................
+ 3.83 %
+Expected dividend yield
+0
+Expected term (in years)    .....................................................................................................................................
+6.31
+Secondary Sales
+During the year ended December 31, 2023, certain former employees sold an aggregate of 183,677 shares of Class A 
+common stock and 3,960,560 shares of Class B common stock to existing shareholders at purchase prices ranging from $25.00 
+to $31.50 per share, for an aggregate purchase price of $114.1 million. We estimated the fair value of the common stock 
+purchased in the secondary sales based on several factors, including taking into account the amounts paid by third parties for 
+our common stock. As the purchase price for the secondary sales paid by our existing shareholder was in excess of the fair 
+value of such shares at the time of the transactions, we recognized immaterial stock-based compensation expense in connection 
+with these transactions during the year ended December 31, 2023.
+Stock-Based Compensation Expense
+The following table summarizes the components of stock-based compensation expense recognized in the consolidated 
+statements of operations for all periods presented:
+Year ended December 31,
+2024
+2023
+2022
+(in thousands)
+Cost of revenue   ................................................................................................. $ 
+620 $ 
+101 $ 
+133 
+Research and development    ...............................................................................  
+441,629  
+23,825  
+35,641 
+Sales and marketing     .........................................................................................  
+80,436  
+5,555  
+7,576 
+General and administrative ...............................................................................  
+278,961  
+18,117  
+11,960 
+Stock-based compensation expense     ............................................................ $ 
+801,646 $ 
+47,598 $ 
+55,310 
+15. Employee Benefit Plans
+We have a defined contribution 401(k) plan (the “401(k) Plan”) for our United States-based employees. The 401(k) Plan is 
+for all full-time employees who meet certain eligibility requirements. Eligible employees may contribute up to 100% of their 
+annual compensation, but are limited to the maximum annual dollar amount allowable under the Internal Revenue Code of 
+1986, as amended (the “Code”). We match 100% of each participant’s contribution up to $3,000 and 25% of each participant’s 
+contribution thereafter, subject to certain limitations and the IRS annual contribution limits. During the years ended 
+December 31, 2024, 2023, and 2022, we recognized expense related to matching contributions of $11.5 million, $10.1 million, 
+and $8.7 million, respectively.
+16. Income Taxes
+For the years ended December 31, 2024, 2023, and 2022, the geographical breakdown of our income (loss) before income 
+taxes is as follows:
+Year ended December 31,
+2024
+2023
+2022
+(in thousands)
+Domestic income (loss)     .................................................................................... $ 
+(493,371) $ 
+(92,627) $ 
+(162,330) 
+Foreign income (loss)     .......................................................................................  
+8,164  
+5,604  
+4,402 
+Income (loss) before income taxes   ................................................................... $ 
+(485,207) $ 
+(87,023) $ 
+(157,928) 
+Table of Contents
+Reddit, Inc.
+Notes to the Consolidated Financial Statements
+95",134
+2024-tsla-annual-report-10K.pdf,"What significant financial highlights or challenges did Tesla, Inc. face during the fiscal year that ended December 31, 2024?",2024-tsla-annual-report-10K,data\2024-tsla-annual-report-10K.pdf,"The report is the annual Form 10-K for Tesla, Inc., covering the fiscal year ended December 31, 2024.","16
+5/25/25, 1:46 PM
+tsla-20241231
+https://www.sec.gov/Archives/edgar/data/1318605/000162828025003063/tsla-20241231.htm
+30/157",32
+2024-tsla-annual-report-10K.pdf,"What was the total depreciation expense for Tesla, Inc. in the fiscal year ended December 31, 2024?",2024-tsla-annual-report-10K,data\2024-tsla-annual-report-10K.pdf,"The report is the annual Form 10-K for Tesla, Inc., covering the fiscal year ended December 31, 2024.","Note 7 – Property, Plant and Equipment, Net
+Our property, plant and equipment, net, consisted of the following (in millions):
+December 31,
+2024
+December 31,
+2023
+Machinery, equipment, vehicles and office furniture
+$
+18,339  $
+16,309 
+Land and buildings
+10,677 
+9,498 
+AI infrastructure
+5,152 
+1,510 
+Tooling
+3,883 
+3,129 
+Leasehold improvements
+3,688 
+3,136 
+Computer equipment, hardware and software
+2,902 
+2,409 
+Construction in progress
+6,783 
+5,791 
+ 
+51,424 
+41,782 
+Less: Accumulated depreciation
+(15,588)
+(12,057)
+Total
+$
+35,836  $
+29,725 
+Construction in progress is primarily comprised of ongoing construction and expansion of our facilities, equipment and tooling
+related to the manufacturing of our products as well as AI-related assets which have not yet been placed in service. Completed assets
+are transferred to their respective asset classes and depreciation begins when an asset is ready for its intended use.
+Depreciation expense during the years ended December 31, 2024, 2023 and 2022 was $4.12 billion, $3.33 billion and $2.42
+billion, respectively.
+Note 8 – Accrued Liabilities and Other
+Our accrued liabilities and other current liabilities consisted of the following (in millions):
+December 31,
+2024
+December 31,
+2023
+Accrued purchases (1)
+$
+2,253  $
+2,721 
+Accrued warranty reserve, current portion
+1,917 
+1,546 
+Payroll and related costs
+1,532 
+1,325 
+Taxes payable (2)
+1,367 
+1,204 
+Customer deposits
+993 
+876 
+Operating lease liabilities, current portion
+807 
+672 
+Sales return reserve, current portion
+305 
+219 
+Other current liabilities
+1,549 
+517 
+Total
+$
+10,723  $
+9,080 
+(1)
+Accrued purchases primarily reflects receipts of goods and services for which we had not yet been invoiced. As we are invoiced
+for these goods and services, this balance will reduce and accounts payable will increase.
+(2)
+Taxes payable primarily includes value added tax, income tax, sales tax, property tax and use tax payables.
+72
+5/25/25, 1:46 PM
+tsla-20241231
+https://www.sec.gov/Archives/edgar/data/1318605/000162828025003063/tsla-20241231.htm
+108/157",127
